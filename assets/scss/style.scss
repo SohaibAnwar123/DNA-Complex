@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+// 1. Base stuff
+@import 'base/fonts',
+'base/base',
+'base/typography';
+
+// 2. Page-specific styles
+@import 'views/home', 'views/checkout', 'views/quiz', 'views/healthcare';
+
+// 3. Reponsive
+@import 'responsive';

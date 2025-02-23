@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 136" width="74" height="136">
+	<title>left-arrow</title>
+	<defs>
+		<image  width="74" height="136" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAACICAMAAAB3Lo38AAAAAXNSR0IB2cksfwAAADZQTFRFAAAA70if7Eif7Eie7Eie7Eed60if7Eid7Eee7Eme7Eie7Eie60ie7Eie6kqf7Eie60id71CfgnI1FQAAABJ0Uk5TACCf3/+vQGDvkMCw0PAwoIAQc+9jBgAAAMNJREFUeJzt2lEOgjAQhOEW1oIiove/rEhCIlsTk86+8c8BvuymfdpMSmJy15tdisqsGUbb0umS7bmGSWbajt+SNtZBsluYpFBOsilMsiFMuodJcw6THkhISEhISEhISEhISEhISH+TxygpLWFS6sOk5IYSJE8ph7Ypzir+LwiWf0IsLCwsLCwsLCwsLCwsLKwTWULjprJayx8/LKUI5CylCOQsiTpa7UWgymouAlVWcxGospTD3p7n/JGWly6tKaVs0BsywC1ymqhs0AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,695 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.container {
+    max-width: 1180px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.save50 {
+    max-width: 200px;
+}
+
+.saveextra {
+    position: absolute;
+    right: 0px;
+    height: 60px;
+    width: auto;
+}
+
+.get_sect {
+    background-color: #dceff2;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Montserrat-Black';
+}
+
+.cbd_bottle {
+    position: relative;
+    margin-top: -180px;
+    margin-bottom: -50px;
+}
+
+.alignleft {
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+.alignright {
+    float: right;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+
+.aligncenter {
+    float: none;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    clear: both;
+}
+
+.top_sect h4 {
+    font-size: 18px;
+    color: #ffea34;
+    font-family: 'Lato-Black';
+    text-align: center;
+}
+
+.top_sect {
+    background-color: #ed462f;
+    padding-bottom: 7px;
+    padding-top: 14px;
+}
+
+.logo_sect {
+    padding-top: 22px;
+    padding-bottom: 12px;
+}
+
+.wait_sect h3 {
+    font-size: 32px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Lato-Black';
+}
+
+.wait_sect h6 {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: 'Lato-Regular';
+}
+
+.wait_sect {
+    background-color: #5da1aa;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-image: url(wait-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.26);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.26);
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.26);
+}
+
+.get_sect h1 {
+    font-size: 35px;
+    color: #ff5400;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0px rgba(168, 168, 168, 0.84);
+}
+
+.get_sect h4 {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 22px;
+    color: #c44401;
+}
+
+.b-r {
+    border-right: 3px solid #e6e6e6;
+}
+
+.p-l {
+    padding-left: 65px;
+}
+
+.get_sect {
+    padding-top: 34px;
+}
+
+.product {
+    padding-top: 62px;
+}
+
+.media {
+    font-size: 20px;
+    background-color: #dceff2;
+}
+
+.save h3 {
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: normal;
+    font-family: 'Lato-Regular';
+}
+
+.save h3 span {
+    font-family: 'Lato-Black';
+}
+
+.save h3 del {
+    color: #000;
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+
+.save {
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #88bdc4;
+    max-width: 1071px;
+    text-align: center;
+    padding-top: 61px;
+    padding-bottom: 50px;
+    border-radius: 7px;
+    background-image: url(perc-bg.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.save h1 {
+    font-size: 55px;
+    line-height: 50px;
+    color: #ffffff;
+    text-shadow: 5px 5px 24px rgba(0, 0, 0, .4);
+    text-transform: uppercase;
+}
+
+.product img {
+    position: relative;
+    z-index: 9;
+}
+
+.save h2 {
+    font-size: 160px;
+    color: #ffffff;
+    text-shadow: 5px 5px 24px rgba(0, 0, 0, .4);
+}
+
+.perc {
+    font-size: 99px;
+}
+
+.ml-c {
+    margin-left: -75px;
+}
+
+.left-arrow {
+    background-image: url(left-arrow.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+
+.right-arrow {
+    background-image: url(right-arrow.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+}
+
+.table,
+.table td,
+.table tr {
+    border: none;
+    width: auto;
+    padding: 0px
+}
+
+.table {
+    margin: auto;
+    font-size: 24px;
+    color: #444444;
+}
+
+.add-order {
+    margin-top: 40px;
+}
+
+.dollar {
+    color: #153446;
+    font-size: 130px;
+    line-height: 100px;
+    font-family: 'Lato-Black';
+    letter-spacing: -2px;
+    text-shadow: 2px 2px 0px rgba(168, 168, 168, 0.84);
+}
+
+del {
+    display: inline-block;
+    text-decoration: line-through wavy red;
+}
+
+.cen {
+    color: #153446;
+    font-size: 60px;
+    line-height: 60px;
+    font-family: 'Lato-Black';
+    letter-spacing: -2px;
+    text-shadow: 2px 2px 0px rgba(168, 168, 168, 0.84);
+}
+
+.perb {
+    color: #000;
+    font-size: 30px;
+    line-height: 30px;
+    font-family: 'Lato-Black';
+}
+
+.add-order a {
+    font-family: 'Montserrat-Black';
+    font-size: 41px;
+    color: #ffffff;
+    background-color: #fe7202;
+    text-transform: uppercase;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-right: 38px;
+    padding-left: 38px;
+    border-radius: 12px;
+    background-image: url(btn-bg.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: 0px 0px 16px 0px rgba(50, 50, 50, 0.42);
+    -moz-box-shadow: 0px 0px 16px 0px rgba(50, 50, 50, 0.42);
+    box-shadow: 0px 0px 16px 0px rgba(50, 50, 50, 0.42);
+}
+
+.no-btn a {
+    font-size: 17px;
+    color: #5b5b5b;
+    font-family: 'Lato-Regular';
+    text-decoration: underline;
+    background-image: url(no-bg.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+    padding-left: 21px;
+}
+
+.no-btn {
+    margin-top: 32px;
+}
+
+#benefits_section h3 {
+    font-size: 40px;
+    color: #ffffff;
+    font-family: 'Montserrat-ExtraBold';
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#benefits_section {
+    background-image: url(ben-bg2.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding-top: 90px;
+    padding-bottom: 57px;
+    background-color: #4bc4ef;
+}
+
+.icon h3 {
+    font-size: 21px;
+    color: #444444;
+    font-family: 'Montserrat-ExtraBold';
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    color: #585858;
+    font-family: 'Lato-Regular';
+}
+
+.icon {
+    background-color: #92d5de;
+    padding-left: 0;
+    padding-right: 0px;
+    max-width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #92d5de;
+}
+
+.icon-1 {
+    background-color: #ddf3f5;
+    border-radius: 50%;
+    margin-top: -26px;
+    padding: 10px 10px;
+}
+
+.icon-inner {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: -50px;
+}
+
+#icon_section {
+    padding-top: 70px;
+}
+
+#icon_section .add-order {
+    margin-top: 74px;
+    margin-bottom: 70px;
+}
+
+footer nav a {
+    font-family: 'Lato-Regular';
+    font-size: 15px;
+    color: #577fff;
+}
+
+footer {
+    background-color: #eaeaea;
+    padding-top: 29px;
+    padding-bottom: 10px;
+}
+
+.imagemedialeft,
+.imagemediaright {
+    max-width: 400px;
+}
+
+.imagemedialeft {
+    display: none;
+}
+
+h5 {
+    font-size: 25px;
+}
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {}
+
+
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .save {
+        max-width: 908px;
+    }
+    .icon {
+        max-width: 310px;
+    }
+    .cbd_bottle {
+        margin-top: -80px;
+    }
+    .saveextra {
+        position: absolute;
+        right: 0px;
+        height: 50px;
+        width: auto;
+    }
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .save {
+        max-width: 689px;
+    }
+    .p-l {
+        padding-left: 26px;
+    }
+    .wait_sect h3 {
+        font-size: 28px;
+    }
+    .wait_sect h6 {
+        font-size: 16px;
+    }
+    .left-arrow {
+        background-size: 27%;
+    }
+    .right-arrow {
+        background-size: 27%;
+    }
+    .ml-c {
+        margin-left: -34px;
+    }
+    .save h2 {
+        font-size: 124px;
+    }
+    .perc {
+        font-size: 66px;
+    }
+    #benefits_section {
+        padding-top: 75px;
+        padding-bottom: 29px;
+    }
+    .icon h3 {
+        font-size: 15px;
+    }
+    p {
+        font-size: 13px;
+    }
+    .icon {
+        max-width: 241px;
+    }
+    .cbd_bottle {
+        margin-top: -30px;
+    }
+    .imagemedialeft,
+    .imagemediaright {
+        max-width: 400px;
+    }
+    .add-order a {
+        font-size: 24px;
+        padding-right: 26px;
+        padding-left: 26px;
+        display: block;
+        max-width: 350px;
+        margin: auto;
+    }
+    .saveextra {
+        position: absolute;
+        right: 0px;
+        height: 35px;
+        top: 20px;
+        width: auto;
+    }
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .top_sect h4 {
+        font-size: 14px;
+    }
+    .wait_sect h3 {
+        font-size: 21px;
+    }
+    .wait_sect h6 {
+        font-size: 14px;
+    }
+    .get_sect h1 {
+        font-size: 35px;
+    }
+    .save {
+        max-width: 511px;
+    }
+    .save h3 {
+        font-size: 28px;
+    }
+    .left-arrow {
+        background-size: 26%;
+    }
+    .right-arrow {
+        background-size: 26%;
+    }
+    .ml-c {
+        margin-left: -0px;
+    }
+    .save h2 {
+        font-size: 114px;
+    }
+    .perc {
+        font-size: 57px;
+    }
+    #benefits_section h3 {
+        font-size: 31px;
+    }
+    #benefits_section {
+        padding-top: 82px;
+        padding-bottom: 37px;
+    }
+    .icon {
+        margin-top: 22px;
+    }
+    .cbd_bottle {
+        margin-top: -20px;
+        max-width: 180px;
+        margin-bottom: 20px;
+    }
+    .save h3,
+    .save h1,
+    .save h2 {
+        text-align: center !important;
+    }
+    .imagemedialeft,
+    .imagemediaright,
+    .media {
+        max-width: 100%;
+        width: 500px;
+        margin: auto;
+    }
+    .imagemediaright {
+        display: none;
+    }
+    .imagemedialeft {
+        display: block;
+    }
+    .add-order a {
+        font-size: 24px;
+        padding-right: 26px;
+        padding-left: 26px;
+        display: block;
+        max-width: 350px;
+        margin: auto;
+    }
+    .saveextra {
+        position: relative;
+        right: 0px;
+        height: 40px;
+        top: 20px;
+        width: auto;
+    }
+}
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575px) {
+    .alignleft {
+        float: none;
+        padding-right: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        clear: both;
+    }
+    .alignright {
+        float: none;
+        padding-left: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        clear: both;
+    }
+    .top_sect h4 {
+        font-size: 14px;
+    }
+    .wait_sect h3 {
+        font-size: 21px;
+    }
+    .wait_sect h6 {
+        font-size: 14px;
+    }
+    .get_sect h1 {
+        font-size: 30px;
+    }
+    .save {
+        max-width: 89%;
+    }
+    .save h3 {
+        font-size: 25px;
+        padding-top: 20px;
+    }
+    .left-arrow {
+        background-size: 26%;
+    }
+    .right-arrow {
+        background-size: 26%;
+    }
+    .ml-c {
+        margin-left: -0px;
+    }
+    .save h2 {
+        font-size: 75px;
+    }
+    .perc {
+        font-size: 34px;
+    }
+    .product {
+        padding-top: 34px;
+    }
+    #benefits_section h3 {
+        font-size: 24px;
+    }
+    #benefits_section {
+        padding-top: 86px;
+        padding-bottom: 54px;
+    }
+    .icon {
+        margin-top: 22px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .p-l {
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    .get_sect h4 {
+        text-align: center;
+    }
+    .b-r {
+        text-align: center;
+        border: none;
+        padding-bottom: 20px;
+    }
+    .add-order a {
+        font-size: 24px;
+        padding-right: 26px;
+        padding-left: 26px;
+        display: block;
+        max-width: 350px;
+        margin: auto;
+    }
+    .no-btn a {
+        font-size: 13px;
+    }
+    #icon_section {
+        padding-top: 20px;
+    }
+    .icon h3 {
+        font-size: 19px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .cbd_bottle {
+        margin-top: -20px;
+        max-width: 180px;
+        margin-bottom: 20px;
+    }
+    .save h3,
+    .save h1,
+    .save h2 {
+        text-align: center !important;
+    }
+    .imagemedialeft,
+    .imagemediaright,
+    .media {
+        max-width: 100%;
+        margin: auto;
+    }
+    .imagemediaright {
+        display: none;
+    }
+    .imagemedialeft {
+        display: block;
+    }
+    .saveextra {
+        position: relative;
+        right: 0px;
+        height: 40px;
+        top: 20px;
+        width: auto;
+    }
+}

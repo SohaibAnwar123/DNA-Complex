@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: 'avenir_next_lt_probold';
+    src: url('avenirnextltpro-bold-webfont.woff2') format('woff2'),
+         url('avenirnextltpro-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avenir_next_lt_prodemi';
+    src: url('avenirnextltpro-demi-webfont.woff2') format('woff2'),
+         url('avenirnextltpro-demi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avenir_next_lt_proregular';
+    src: url('avenirnextltpro-regular-webfont.woff2') format('woff2'),
+         url('avenirnextltpro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'lemon_milkregular';
+    src: url('lemonmilk-regular-webfont.woff2') format('woff2'),
+         url('lemonmilk-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'lemon_milkmedium';
+    src: url('lemonmilk-medium-webfont.woff2') format('woff2'),
+         url('lemonmilk-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'jenna_sueregular';
+    src: url('jennasue-webfont.woff2') format('woff2'),
+         url('jennasue-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.strikeout { 
+  position: relative;
+}
+.strikeout::after {
+  border-bottom: 0.06em solid #F00;
+  content: "";
+  left: 0;
+  margin-top: calc(0.125em / 2 * -1);
+  position: absolute;
+  right: 0;
+  top: 54%;
+  transform:rotate(-8deg);
+  -webkit-transform:rotate(-8deg);
+}
+/*=========================
+CSS FOR ELEMEMT SHOW HIDE
+===========================*/
+/*---------------------------*/
+.show-479, .show-tab, .show-767, .show-400, .show-340, .show-359, .tab-video {display:none;}
+.hide-400, .hide-479{display:inline-block;}
+@media only screen and (max-width: 1190px){
+.show-desk{display:block;}
+.hide-desk{display:none;}
+}
+@media only screen and (max-width: 1020px){
+.show-tab{display:block;}
+.hide-tab{display:none;}
+.tab-video{display:block;}
+}
+@media only screen and (max-width: 767px){
+.hide-767, .hide-desk{display:none;}
+.show-767{display:block;}
+}
+@media only screen and (max-width: 570px){
+.hide-570{display:none;}
+}
+@media only screen and (max-width: 479px){
+.show-479{display:block;}
+.hide-479, .tab-video{display:none;}
+}
+@media only screen and (max-width: 400px){
+.show-400{display:block;}
+.hide-400{display:none;}
+}
+@media only screen and (max-width: 359px){
+.show-359{display:block;}
+}
+@media only screen and (max-width: 340px){
+.show-340{display:block;}
+}
+
+.bnr-arw{margin:20px auto 0 auto;display:block;}
+.slide-anm {
+	animation-name: slide;
+	-webkit-animation-name: slide;
+	animation-duration: 1s;
+	-webkit-animation-duration: 1s;
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
+	}
+@keyframes slide {
+0% {transform:translateY(0px)}
+50% {transform: translateY(10px);}
+100% {transform: translateY(0px);}
+}
+@media only screen and (max-width: 767px){
+.bnr-arw{width:34px;margin:10px auto 0 auto;}
+}
+
+
+
+
+

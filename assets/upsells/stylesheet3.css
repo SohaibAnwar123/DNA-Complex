@@ -1,0 +1,332 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.messagescroll {
+    color: #c0ff4d;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+
+h1 {
+    color: #ff0000;
+    font-weight: 900;
+    font-size: 75px;
+    line-height: 75px;
+}
+
+h2 {
+    color: #ff0000;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 28px;
+}
+
+.productimg {
+    position: absolute;
+    margin-top: -200px;
+    z-index: 999;
+}
+
+.page_bg {
+    background-image: url(header_bg.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+img {
+    max-width: 100%;
+}
+
+.topsect {
+    background-image: url(section_top.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: cover;
+    padding: 50px;
+    background-color: #ff8e01;
+    z-index: 9;
+    position: relative;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+}
+
+.topsect h2 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 45px;
+}
+
+.topsect h2 small {
+    font-size: 35px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.bottomsect {
+    z-index: 1;
+    padding: 30px;
+    background-color: #ffffff;
+    position: relative;
+    padding-top: 140px;
+    margin-top: -100px;
+    padding-bottom: 40px;
+    -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    color: #43c000;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: -1px;
+}
+
+.cost {
+    color: #30a0b0;
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+.costper {
+    color: #ff6900;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+
+.costperhuge {
+    color: #ff6900;
+    font-size: 100px;
+    padding-left: 20px;
+}
+
+.benefits {
+    background-image: url(bottom_section.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    margin-top: 40px;
+}
+
+.boxstyle {
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.16);
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.16);
+    border: solid 8px #fff;
+    padding: 0px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    background-color: #ebffe3;
+    font-size: 15px;
+}
+
+.benefits h2 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.43);
+}
+
+.boxstyle img {
+    position: relative;
+}
+
+.boxstyle h3 {
+    padding: 20px;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.boxstyle p {
+    padding: 20px;
+}
+
+.btn {
+    background-image: url(btn.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    width: 353px;
+    max-width: 100%;
+    height: 93px;
+    line-height: 70px;
+    color: #fff;
+    font-weight: 900;
+    font-size: 28px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.43);
+}
+
+footer {
+    padding: 40px;
+}
+
+.arrowimg {
+    position: absolute;
+    width: 180px;
+    height: auto;
+    margin-left: -90px;
+    margin-top: -60px;
+}
+
+.arrowspcer {
+    padding-left: 90px;
+}
+
+a {
+    color: #000;
+}
+
+@media (max-width: 575.98px) {
+    .productimg {
+        position: relative;
+        margin: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        max-width: 200px;
+    }
+    .topsect {
+        padding: 30px;
+        text-align: center;
+    }
+    .boxstyle {
+        max-width: 348px;
+        margin: auto;
+    }
+    .topsect h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .topsect img {
+        display: block;
+        margin: auto;
+    }
+    .bottomsect {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .arrowimg {
+        display: none;
+    }
+    .arrowspcer {
+        padding: 0px;
+    }
+    .cost {
+        color: #30a0b0;
+        font-size: 30px;
+        padding-left: 10px;
+    }
+    .bottomsect {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .costper {
+        color: #ff6900;
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .costperhuge {
+        color: #ff6900;
+        font-size: 80px;
+        padding-left: 10px;
+    }
+    .btn {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .productimg {
+        position: relative;
+        margin: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        max-width: 200px;
+    }
+    .topsect {
+        padding: 30px;
+        text-align: center;
+    }
+    .boxstyle {
+        max-width: 348px;
+        margin: auto;
+    }
+    .topsect h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .topsect img {
+        display: block;
+        margin: auto;
+    }
+    .bottomsect {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .arrowimg {
+        display: none;
+    }
+    .arrowspcer {
+        padding: 0px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .productimg {
+        position: relative;
+        margin: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        text-align: center;
+        max-width: 200px;
+    }
+    .boxstyle {
+        max-width: 348px;
+        margin: auto;
+    }
+    .topsect h2 {
+        font-size: 40px;
+    }
+    .bottomsect {
+        font-size: 25px;
+        line-height: 25px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .topsect h2 {
+        font-size: 30px;
+    }
+    .topsect img {
+        display: block;
+    }
+    .bottomsect {
+        font-size: 25px;
+        line-height: 25px;
+    }
+}
+
+@media (min-width: 1200px) {}

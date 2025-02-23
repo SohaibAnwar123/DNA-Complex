@@ -1,0 +1,36 @@
+h1 {
+    font-weight: 700;
+    font-size: clamp(30px, 2.8vw, 50px);
+    line-height: 120%;
+    &.fs32{
+        font-size: clamp(20px, 1.8vw, 32px);
+    }
+    &.fs36{
+        font-size: clamp(20px, 2.2vw, 36px);
+    }
+}
+
+h2 {
+    font-weight: 500;
+    font-size: clamp(16px, 1.4vw, 24px);
+    line-height: 120%;
+    &.fs26{
+        font-size: clamp(16px, 1.5vw, 26px); 
+    }
+    &.fw500{
+       font-weight: 500;
+    }
+}
+
+h3 {
+    font-weight: 500;
+    font-size: clamp(16px, 1.5vw, 20px);
+    line-height: 120%;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+}

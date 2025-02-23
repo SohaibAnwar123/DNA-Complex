@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'AvertaStd';
+    color: #000;
+}
+
+body,
+html {
+    overflow-x: hidden;
+}
+body.overflowX_V{
+    overflow-x: visible !important;
+}
+* {
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:focus-visible {
+    outline: none;
+}
+
+a:hover {
+    color: unset;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+ul {
+    list-style: none;
+}
+.pb25{
+padding-bottom: 25px;
+}
+.mb15{
+margin-bottom: 15px !important;
+}
+
+.form-control:focus {
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+.form-select:focus{
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+.accordion-button:focus{
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+
+.flex_align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.flex_bt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    max-width: 1432px;
+    width: 100%;
+   
+}
+.fw300{
+    font-weight: 300 !important;
+}
+.fw400{
+    font-weight: 400 !important;
+}
+.fw500{
+    font-weight: 500 !important;
+}
+.fw600{
+    font-weight: 600 !important;
+}
+.fw700{
+    font-weight: 700 !important;
+}
+.jadeBG{
+    background-color: #13a89e !important;
+}
+.whiteClr{
+    color: #fff !important;
+}
+.lineBreak{
+    margin-top: 10px;
+}
+.chevronRight{
+    border-style: solid;
+    border-width: 3px 3px 0 0;
+    content: "";
+    display: inline-block;
+    height: 15px;
+    transform: rotate(45deg);
+    width: 15px;
+}
+
+#show-button a{
+    display: none;
+  }
+  #show-button.ShowMeButton a{
+    display: block;
+  }
+  #wistia-video-container .wistia_embed {
+    height: 500px !important;
+ }
+ #wistia-video-container #wistia_grid_29_main {
+    height: 500px !important;
+  }

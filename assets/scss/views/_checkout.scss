@@ -1,0 +1,495 @@
+// checkoutWrap sec start 
+.checoutTimer {
+    background-color: #13A89E;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: clamp(30px, 2.8vw, 50px);
+
+    // h4 {
+    //     font-size: 18px;
+    //     line-height: 1;
+    //     font-weight: 600;
+    // }
+
+    // h3 {
+    //     font-size: 20px;
+    //     color: #ec489e;
+    //     font-weight: 700;
+    // }
+    p {
+        color: #fff;
+    }
+}
+
+.formInner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px 0;
+    margin-top: clamp(30px, 2.3vw, 35px);
+    margin-bottom: 20px;
+
+    .w50 {
+        width: calc(50% - 10px);
+    }
+
+    .form-control,
+    .form-select {
+        height: 55px;
+        border: 1px solid #d7d7d7;
+        border-radius: 5px;
+        padding: 10px 10px 8px 10px;
+        // padding: 0 12px;
+        font-size: 17px;
+    }
+
+    .labelHide {
+        position: relative;
+
+        label {
+            display: none;
+        }
+
+        &.labelShow {
+            label {
+                display: block;
+                transition: all 0.3s;
+                position: absolute;
+                z-index: 1;
+                left: 7px;
+                top: 2px;
+                color: #212529;
+                pointer-events: none;
+                font-size: 12px;
+                line-height: 1.2;
+            }
+
+            input {
+                &::placeholder {
+                    display: none;
+                    visibility: hidden;
+                }
+            }
+        }
+    }
+}
+
+.checkBox {
+    background-color: #cde6e5;
+    border-radius: 5px;
+    border: 2px dashed #ec489e;
+    margin-bottom: clamp(30px, 2.8vw, 50px);
+    padding: 15px 16px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+    input[type="checkbox"] {
+        min-width: 33px;
+        height: 35px;
+        border-radius: 2px;
+        border: 1px solid #dbdbdb;
+    }
+
+    p a {
+        color: inherit;
+        text-decoration: underline;
+    }
+}
+
+.paymentForm {
+    margin-top: 15px;
+
+    .payment_according {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .accordion-button:not(.collapsed) {
+        background-color: transparent;
+    }
+
+    .accordion-button::after {
+        background-image: unset;
+        display: none;
+    }
+
+    .accordion-button {
+        cursor: pointer;
+    }
+
+    .payment_according label {
+        font-size: 24px;
+        color: #000;
+        position: relative;
+        z-index: 9;
+
+    }
+
+    label {
+        width: 100%;
+        cursor: pointer;
+    }
+
+    .payment-card {
+        position: absolute;
+        right: 5px;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 0;
+        gap: 4px;
+
+        img {
+            width: 30px;
+        }
+    }
+
+    .accordion-header {
+        width: 100%;
+    }
+
+    .payment_form_box {
+        padding: 25px 20px;
+        margin-top: 0;
+        border-top: 1px solid #d7d7d7;
+        background: rgb(250, 250, 250);
+        margin-bottom: 0;
+
+        label {
+            font-size: 18px;
+            line-height: 1.2;
+            padding-bottom: 5px;
+        }
+
+        h2 {
+            padding-top: 30px;
+            color: #9e9e9e;
+            max-width: 503px;
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .paypalBox {
+            max-width: 250px;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+    }
+}
+
+.checkoutBtn {
+    height: 84px;
+    width: 100%;
+    // background: #30bb0b;
+    background: #ec489e;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    font-size: clamp(20px, 2.5vw, 32px);
+    line-height: 1.2;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 1px 1px #ec489e;
+    position: relative;
+    gap: 7px;
+
+    &:hover {
+        color: #fff;
+        text-decoration: underline;
+    }
+}
+
+.checkBox__ {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.securePayment {
+    margin: 20px 0;
+    gap: 8px;
+    color: rgb(127, 127, 127);
+    font-size: 16px;
+    line-height: 1;
+    height: 43px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 4px;
+    max-width: 190px;
+    width: 100%;
+    pointer-events: none;
+
+    svg {
+        fill: rgb(127, 127, 127);
+        width: 18px;
+        height: 18px;
+    }
+}
+
+.checkoutFooter {
+    // padding-top: 25px;
+    background: #fff;
+    // margin-top: clamp(25px, 2.8vw, 45px);
+    // border-top: 1px solid #d7d7d7;
+    text-align: center;
+
+
+
+    ul {
+        display: flex;
+        margin-bottom: 10px;
+        gap: 8px;
+        justify-content: start;
+
+        li {
+            // padding-right: 12px;
+            // margin-right: 12px;
+            // border-right: 1.5px solid #000;
+            font-size: 16px;
+            line-height: 1;
+            color: #000;
+            text-align: center;
+
+            // &:last-of-type {
+            //     border-right: 0;
+            //     padding-right: 0;
+            //     margin-right: 0;
+            // }
+
+            a {
+                font-size: inherit;
+                color: inherit;
+            }
+        }
+    }
+}
+
+.orderSummaryBg {
+    position: relative;
+    border-left: 1px solid #dbdbdb;
+
+    &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 200%;
+        background: #f7f7f7;
+        height: 100%;
+        pointer-events: none;
+        z-index: -1;
+    }
+}
+
+.checkoutRight {
+    padding-top: clamp(25px, 3vw, 50px);
+    padding-left: 20px;
+}
+
+.quantityWrap {
+    li {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 2px solid #dbdbdb;
+        padding-bottom: 25px;
+        margin-bottom: 25px;
+
+        &:last-child {
+            padding-bottom: 0;
+            margin-bottom: 0;
+            border-bottom: 0;
+
+            p {
+                padding-top: 8px;
+            }
+        }
+
+        &:nth-last-of-type(2) {
+            padding-bottom: 0;
+            margin-bottom: 0;
+            border-bottom: 0;
+        }
+
+        &:nth-of-type(1) {
+            div {
+                width: 100%;
+
+                &:nth-of-type(1) {
+                    display: flex;
+                    gap: 25px;
+                    align-items: center;
+                }
+            }
+        }
+
+        .bottlesImg {
+            position: relative;
+            max-width: 108px;
+            width: 100%;
+            height: 108px;
+            justify-content: center;
+            background-color: #fff;
+            padding: 5px;
+
+            img {
+                object-fit: cover;
+                height: 100%;
+            }
+
+            .bottlesTag {
+                position: absolute;
+                width: 28px;
+                height: 28px;
+                background-color: #635c5c;
+                border-radius: 50px;
+                top: 0;
+                right: 0;
+                transform: translate(50%, -50%);
+                color: #ffffff;
+                font-size: 16px;
+                line-height: 1.3;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            // &::before {
+            //     position: absolute;
+            //     content: "1";
+            //     width: 28px;
+            //     height: 28px;
+            //     background-color: #635c5c;
+            //     border-radius: 50px;
+            //     top: -9px;
+            //     right: -12px;
+            //     color: #ffffff;
+            //     font-size: 16px;
+            //     line-height: 1.3;
+            //     display: flex;
+            //     justify-content: center;
+            //     align-items: center;
+            // }
+        }
+    }
+
+    .totalAmount {
+        display: flex;
+        align-items: center;
+        gap: 2px;
+
+        h2,
+        h3 {
+            line-height: 1;
+            font-weight: 600;
+        }
+    }
+}
+
+.GuarantyWrap {
+    max-width: 500px;
+    width: 100%;
+    gap: 15px;
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 4px;
+    margin-top: 30px;
+    padding: 10px;
+    color: rgb(127, 127, 127);
+    margin-left: auto;margin-right: auto;
+
+    h1 {
+        text-align: center;
+    }
+
+    p {
+        font-size: 14px;
+        max-width: 220px;
+        width: 100%;
+        text-align: center;
+
+        span {
+            font-size: 11px;
+        }
+    }
+}
+
+.whyDNA {
+    padding-top: clamp(25px, 2.8vw, 50px);
+
+    // &:last-child {
+    //     h1 {
+    //         &::before {
+    //             width: 165px;
+    //         }
+
+    //         &::after {
+    //             width: 165px;
+    //         }
+    //     }
+    // }
+
+    h1 {
+        position: relative;
+        text-align: center;
+
+        &::before {
+            position: absolute;
+            content: "";
+            width: calc(50% - 150px);
+            height: 1px;
+            background-color: #dbdbdb;
+            top: 50%;
+            left: 0;
+            transform: translateY(-50%);
+        }
+
+        &::after {
+            position: absolute;
+            content: "";
+            width: calc(50% - 150px);
+            height: 1px;
+            background-color: #dbdbdb;
+            top: 50%;
+            right: 0;
+            transform: translateY(-50%);
+        }
+
+        &.fs32 {
+            font-size: clamp(20px, 1.8vw, 30px);
+            text-align: start;
+            margin-bottom: 15px;
+
+            &::before {
+                display: none;
+            }
+
+            &::after {
+                display: none;
+            }
+        }
+    }
+
+
+    .ingredientsWrap {
+        margin-top: 25px;
+
+        li {
+            border-bottom: 2px solid #dbdbdb;
+            padding-bottom: 25px;
+            margin-bottom: 25px;
+
+            &:last-child {
+                padding-bottom: 0;
+                margin-bottom: 0;
+                border-bottom: 0;
+            }
+        }
+    }
+
+    .testimonialsInner {
+        margin-top: clamp(20px, 2.8vw, 40px);
+    }
+}

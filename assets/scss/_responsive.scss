@@ -1,0 +1,1650 @@
+// Desktop
+@media (max-width: 1399.98px) {
+    .mainLogo {
+        max-width: 120px;
+        width: 100%;
+    }
+
+    .navInner {
+        padding: 10px 0;
+    }
+
+    .toogleRadio .switch {
+        width: 75px;
+        height: 36px;
+        margin: 0px 10px;
+    }
+
+    .toogleRadio .slider:before {
+        height: 26px;
+        width: 26px;
+        left: 5px;
+        bottom: 5px;
+    }
+
+    .toogleRadio input:checked+.slider:before {
+        transform: translateX(38px);
+    }
+
+    .promiseWrap li img {
+        height: 80px;
+    }
+
+    .productSteps .pillsTitle {
+        margin: 20px;
+    }
+
+    .DND_complex {
+        padding: 25px 20px;
+        margin-top: -70px;
+    }
+
+    .productSteps #v-pills-tab {
+        max-width: 340px;
+    }
+
+    .productSteps #v-pills-tab button {
+        padding: 10px;
+    }
+
+    .productSteps #v-pills-tabContent .tab-pane {
+        padding: 25px 0px 30px 30px;
+    }
+
+    .productSteps .serum-img {
+        height: 210px;
+
+        img {
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+
+    .accordianMain .accordion-button {
+        padding: 20px;
+    }
+
+    .container {
+        max-width: 1280px;
+    }
+
+    .productSteps .serum-detail {
+        margin: 18px 0;
+        align-items: self-start;
+    }
+
+    .productSteps .serum-detail h3 {
+        max-width: 580px;
+        line-height: 1.2;
+    }
+
+    .hurryOrder .orderNow {
+        max-width: 320px;
+    }
+
+    .footerWrap .footerLogo {
+        max-width: 210px;
+    }
+
+    .footerWrap li a {
+        font-size: 16px;
+    }
+
+    .contactInfo {
+        max-width: 418px;
+    }
+
+    .footerWrap .footerDetail h2 {
+        font-size: 16px;
+    }
+
+    .pricingBox .offPercent {
+        width: 95px;
+        height: 95px;
+    }
+
+    .pricingBox .offPercent h1 {
+        font-size: 30px;
+    }
+
+    .pricingBox .offPercent h1 span {
+        font-size: 18px !important;
+    }
+
+    .pricingBox .offPercent.percent40 {
+        height: 95px;
+        width: 85px;
+    }
+
+    .pricingBox .bottlesImg {
+        height: 145px;
+    }
+
+    .pricingBox {
+        padding: 85px 20px 35px 20px;
+    }
+
+    .pricingBox:nth-of-type(2) {
+        height: 580px;
+    }
+
+    .pricingBox .bestValue p {
+        font-size: 15px;
+    }
+
+    // checkout page start 
+    .checoutTimer {
+        padding: 10px 0px;
+    }
+
+    .paymentForm .payment_according label {
+        font-size: 18px;
+    }
+
+    .paymentForm .payment_form_box label {
+        font-size: 16px;
+    }
+
+    .paymentForm .payment_form_box {
+        padding: 15px;
+    }
+
+
+    .checkBox {
+        padding: 10px;
+    }
+
+    .checkoutBtn {
+        height: 60px;
+    }
+
+    .checkoutRight {
+        padding-left: 5px;
+    }
+
+    .quantityWrap li .bottlesImg {
+        max-width: 90px;
+        height: 90px;
+    }
+
+    .quantityWrap li {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .whyDNA .ingredientsWrap li {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+        gap: 12px;
+    }
+
+    .whyDNA .testimonialsInner li {
+        margin-bottom: 25px;
+        gap: 15px;
+    }
+
+    .whyDNA .testimonialsInner .starsWrap li {
+        margin-bottom: 0px;
+    }
+
+    .whyDNA .testimonialsInner .starsWrap {
+        margin: 7px 0;
+    }
+
+    .whyDNA h1.fs32 {
+        margin-bottom: 8px;
+    }
+
+    .whyDNA .testimonialsInner .customerImg {
+        min-width: 80px;
+        min-height: 80px;
+    }
+
+}
+
+// Ipad pro 
+// `xl` applies to large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) {
+    .welcomeVideo {
+        height: auto !important;
+    }
+
+    .bannerWrap {
+        padding-bottom: 100px;
+    }
+
+    .container {
+        max-width: 950px;
+    }
+
+    .contactInfo {
+        max-width: 345px;
+    }
+
+    .benefitsList {
+        flex-direction: column;
+    }
+
+    .complexLeft .productView {
+        padding: 16px;
+    }
+
+    .productSlider .smallView {
+        padding: 5px 10px;
+    }
+
+    .productSlider .largeView {
+        height: 400px;
+    }
+
+    .pricingBox {
+        width: 100%;
+        margin-top: 80px;
+        max-width: 460px;
+        padding: 0px 35px 35px 35px;
+        margin-left: auto;
+
+        &:nth-of-type(2) {
+            order: 1;
+            height: auto;
+            display: block;
+        }
+    }
+
+
+    .pricingBox .savingDNA {
+        position: absolute;
+        top: 0;
+        right: 30%;
+        transform: translate(50%, -50%);
+    }
+
+    .pricingWrap {
+        flex-direction: column-reverse;
+        margin-top: 20px;
+    }
+
+    .pricingBox .bottlesImg {
+        width: auto;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: auto;
+        width: 300px;
+    }
+
+    .pricingBox .bottlesImg img {
+        width: 97px;
+    }
+
+    .pricingBox .discountPrice li img {
+        height: 200px;
+        object-fit: contain;
+        max-width: inherit;
+        width: 200px;
+    }
+
+    .pricingBox .discountPrice li:nth-of-type(2) {
+        margin-right: 60px;
+    }
+
+    .pricingBox .discountPrice {
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 20px;
+        align-items: end;
+        gap: 20px;
+
+        li:nth-of-type(1) {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+
+    .pricingBox .youSave {
+        margin-top: 5px;
+        padding-top: 5px;
+    }
+
+    .productSteps .serum-detail {
+        flex-direction: column;
+    }
+
+    .productSteps .serum-detail h3 {
+        max-width: 450px;
+    }
+
+    .testimonialsInner .customerImg {
+        min-width: 60px;
+        min-height: 60px;
+    }
+
+    .testimonialsInner li {
+        gap: 20px;
+    }
+
+    .testimonialsInner .starsWrap li img {
+        width: 17px;
+    }
+
+    .testimonialsInner .starsWrap {
+        gap: 4px;
+        align-items: center;
+    }
+
+    .radioLeft,
+    .radioRight {
+        max-width: 180px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .radioRight {
+        max-width: 180px;
+        width: 100%;
+    }
+
+    .pricingBox .offPercent {
+        position: relative;
+        top: 0;
+        transform: translateY(-50%);
+    }
+
+    .pricingTable h2 {
+        font-size: 22px;
+    }
+
+    .whyDNA:last-child h1::before {
+        width: 115px;
+    }
+
+    .whyDNA:last-child h1::after {
+        width: 115px;
+    }
+
+    .productSteps .skin-type .skin-type-part img {
+        width: 35px;
+    }
+
+    .productSteps .skin-type .skin-type-part h2 {
+        font-size: 15px;
+    }
+
+    .productSteps .skin-type .skin-type-part {
+        gap: 15px;
+    }
+
+    // Quiz page 
+    #stepsForm fieldset {
+        max-width: 800px;
+    }
+
+    #stepsForm fieldset h2 span {
+        left: -30px;
+    }
+
+    .btmIcon {
+        transform: unset;
+        right: 0;
+    }
+
+    .btmIcon .notifyBadgeWrap {
+        margin-left: auto;
+        right: 20px;
+    }
+
+    .btmIcon .sharpBorder {
+        left: -20px;
+        margin-left: auto;
+    }
+
+    .btmIcon .iconText {
+        right: -30px;
+    }
+
+    .btmIcon .btmIconInner {
+        margin-bottom: 8px;
+    }
+
+    .btmIcon .sharpBorder::before {
+        bottom: 4px;
+    }
+
+    // healthcare page start 
+
+    .healthcareHero .heroImg {
+        width: 100%;
+        max-width: 580px;
+    }
+
+    .healthcareHero .heroContent {
+        width: 100%;
+        max-width: 580px;
+    }
+
+    .healthcareHero .heroInner {
+        flex-direction: column;
+        justify-content: center;
+        gap: 50px;
+    }
+
+    .heroNext .logosWrap {
+        padding-top: 90px;
+    }
+
+    .healthTestimonials .testimonialsImg img {
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+//  ipad 
+
+// `lg` applies to medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+    h2.productDescription {
+        line-height: 1.5;
+    }
+
+    .pricingBox {
+        margin-right: auto;
+    }
+
+    .productSlider .largeView {
+        height: 690px;
+        object-fit: contain;
+    }
+
+    .productSlider .smallView {
+        height: 200px;
+    }
+
+    .DND_complex {
+        flex-wrap: wrap;
+    }
+
+    .complexLeft {
+        width: 100%;
+    }
+
+    .complexLeft .productView {
+        background-color: #fff;
+        padding: 0;
+    }
+
+    .productSlider {
+        padding-bottom: 40px;
+    }
+
+    .clientName {
+        margin-top: 50px;
+    }
+
+    .complexRight {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .complexRight .productTitle {
+        justify-content: center;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .product-info_md {
+        .accordion-button {
+            border-radius: 0px !important;
+            border-top: 2px solid #13a89e;
+            padding: 12px 10px;
+            font-weight: 700;
+
+            &::after {
+                content: "+";
+                background-image: none;
+                width: auto;
+                color: #000000;
+                font-size: 18px;
+            }
+        }
+
+        .accordion-button:not(.collapsed) {
+            color: #fff;
+            background-color: #13a89e;
+            box-shadow: none;
+        }
+
+        .accordion-button:not(.collapsed)::after {
+            background-image: none;
+            content: "-";
+            color: #fff;
+        }
+
+        .bottlesImgMd {
+            max-width: 215px;
+            width: 100%;
+            margin: 15px auto;
+        }
+    }
+
+    .ingredients-detail {
+        img {
+            width: 95px;
+        }
+    }
+
+    .ingredientsWrap .use-step {
+        max-width: 73px;
+        margin-bottom: 5px;
+    }
+
+    .ingredientsWrap .ingredients-detail {
+        gap: 10px;
+    }
+
+    .hurryOrder h1 {
+        display: none;
+    }
+
+    .hurryOrder .orderInner {
+        justify-content: center;
+    }
+
+    .perfectSolution {
+        margin-top: 20px;
+    }
+
+    // .checkout page start 
+    .checkoutWrap .customGap {
+        gap: 20px 0;
+    }
+
+    .orderSummaryBg::before {
+        display: none;
+    }
+
+    .quantityWrap li .bottlesImg {
+        max-width: 65px;
+        height: 65px;
+        border: 1px solid #dbdbdb;
+        border-radius: 5px;
+    }
+
+    .quantityWrap li .bottlesImg::before {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        top: 0;
+        right: 0;
+        transform: translate(50%, -50%);
+    }
+
+    .quantityWrap li {
+        border-width: 1px;
+    }
+
+    .checkoutRight {
+        padding-top: 0;
+    }
+
+    .orderSummaryAccordin {
+        .accordion-item {
+            border: 0;
+        }
+
+        .accordion-button {
+            padding: 8px 25px;
+            border-bottom: 1px solid #dbdbdb;
+
+            .hideOrderSummary {
+                display: none;
+            }
+
+            &.collapsed {
+                .hideOrderSummary {
+                    display: block;
+                }
+
+                .showOrderSummary {
+                    display: none;
+                }
+            }
+
+            &::after {
+                left: 0;
+                position: absolute;
+                background-image: url(../img/arrow-down-black.svg);
+                background-position: center;
+                background-size: 16px;
+            }
+
+            .hideSummary {
+                display: none;
+            }
+
+            &.collapsed {
+                .hideSummary {
+                    display: block;
+                }
+
+                .showSummary {
+                    display: none;
+                }
+            }
+        }
+
+        .accordion-button:not(.collapsed) {
+            color: inherit;
+            background-color: unset;
+            box-shadow: unset;
+        }
+    }
+
+    .checoutTimer {
+        margin-top: 12px;
+    }
+
+    .whyDNA h1::after {
+        width: 30%;
+    }
+
+    .whyDNA h1::before {
+        width: 30%;
+    }
+
+    .whyDNA:last-child h1::after {
+        width: 35%;
+    }
+
+    .whyDNA:last-child h1::before {
+        width: 35%;
+    }
+
+    .checkoutFooter {
+        padding-top: 20px;
+        padding-bottom: 18px;
+    }
+
+    .whyDNA .ingredients-detail img {
+        width: 48px;
+    }
+
+    .whyDNA .testimonialsInner .customerImg {
+        min-width: 70px;
+        min-height: 70px;
+    }
+
+    .GuarantyWrap {
+        max-width: 100%;
+        border: 0;
+        flex-direction: column;
+        gap: 5px;
+        margin-top: 0;
+    }
+
+    .GuarantyWrap p {
+        max-width: 100%;
+    }
+
+    .paymentForm .payment_form_box .form_group.w50 {
+        width: calc(50% - 5px) !important;
+    }
+
+    .productSteps .skin-type {
+        margin-top: 0;
+    }
+
+    // Quiz page start 
+    #stepsForm fieldset {
+        max-width: 630px;
+    }
+
+    // healthcare page start 
+    .healthcareHero .heroImg {
+        max-width: 450px;
+    }
+
+    .healthcareHero .heroContent {
+        max-width: 450px;
+    }
+
+    .heroNext .howItWorks .boxWrap {
+        width: calc(50% - 10px);
+        padding: 40px 29px;
+    }
+
+    .heroNext .howItWorks .boxesWrap {
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .heroNext .getRight {
+        padding: 50px 15px;
+        width: 95%;
+    }
+
+    .heroNext .howItWorks {
+        padding: 50px 0;
+    }
+
+    .heroNext .howItWorks .boxWrap .boxImg {
+        max-width: 80px;
+    }
+
+    .healthAbout .customGap {
+        gap: 20px 0;
+    }
+
+    .healthTestimonials {
+        padding: 65px 0;
+    }
+
+    .healthTestimonials .testimonialsInner {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .healthTestimonials .testimonialsImg {
+        width: 100%;
+    }
+
+    .healthTestimonials .testimonialsContent {
+        width: 100%;
+    }
+
+    .getInstPlan .getInstPlanInner h1 {
+        font-size: 24px;
+    }
+
+    .healthcareHero .container {
+        padding-top: 45px;
+        padding-bottom: 190px;
+    }
+
+    #healthcareFrom {
+        width: 96%;
+    }
+
+    #healthcareFrom .formInner {
+        padding: 20px;
+    }
+
+    #healthcareFrom .formInner .EnrollNowBtn {
+        max-width: 200px;
+    }
+
+}
+
+@media (max-width: 640.98px) {
+    .welcomeVideo {
+        padding-top: 15px !important;
+        padding-bottom: 15px !important;
+    }
+
+    .welcomeVideo .welcomeContainer {
+        padding-left: 15px;
+        padding-right: 15px;
+        max-width: 100% !important;
+    }
+
+    .welcomeVideo .welcomeEmbeb.mobileVersion {
+        display: block !important;
+    }
+
+    .welcomeVideo .welcomeEmbeb.desktopVersion {
+        display: none !important;
+    }
+}
+
+//  mobile 
+// `sm` applies to x-small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+    .quizWrap li {
+        height: 53px;
+    }
+
+    .productSlider {
+        padding-bottom: 10px;
+    }
+
+
+    .pricingBox .discountPrice {
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .productSlider .largeView {
+        height: 600px;
+    }
+
+    .productSlider .smallView {
+        height: 135px;
+    }
+
+    .pricingBox .addCart h2 {
+        font-size: 21px;
+    }
+
+    .testimonialsInner {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .testimonialsInner .customerImg {
+        min-width: 27px;
+        min-height: 27px;
+        font-size: 14px;
+        width: 27px;
+    }
+
+    .testimonialsInner h2:last-of-type {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-top: 1px solid #c9c9c9;
+        padding: 10px 0;
+    }
+
+    .testimonialsInner h2:last-of-type div:first-of-type {
+        display: flex;
+        gap: 9px;
+        align-items: center;
+    }
+
+    .bannerWrap h1 {
+        font-size: 14px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .DND_complex {
+        padding: 25px 15px;
+    }
+
+    .contactInfo {
+        display: none;
+    }
+
+    .navInner {
+        justify-content: center;
+    }
+
+    .fixed-arrow {
+        width: 24px;
+    }
+
+    .tadda {
+        animation-name: tadda;
+        -webkit-animation-name: tadda;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: infinite;
+        -webkit-animation-iteration-count: infinite;
+    }
+
+    @keyframes tadda {
+        0% {
+            transform: translateX(0px)
+        }
+
+        50% {
+            transform: translateX(15px);
+        }
+
+        100% {
+            transform: translateX(0px);
+        }
+    }
+
+    .taddaR {
+        animation-name: taddaR;
+        -webkit-animation-name: taddaR;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: infinite;
+        -webkit-animation-iteration-count: infinite;
+    }
+
+    @keyframes taddaR {
+        0% {
+            transform: translateX(0px)rotate(180deg)
+        }
+
+        50% {
+            transform: translateX(-15px)rotate(180deg);
+        }
+
+        100% {
+            transform: translateX(0px)rotate(180deg);
+        }
+    }
+
+    .productTitle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #dbdbdb;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .text-gray {
+        color: #6d6e71 !important;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .pricingBox .savingDNA {
+        font-size: 10px;
+        max-width: 150px;
+    }
+
+    .pricingBox .bottlesImg img {
+        width: 60px;
+    }
+
+    .pricingBox .bottlesImg {
+        height: auto;
+        width: 235px;
+    }
+
+    .pricingBox .discountPrice li img {
+        height: 175px;
+        width: 175px;
+    }
+
+    .pricingBox .newPrice h1 {
+        font-size: 45px;
+    }
+
+    .pricingBox .newPrice sup {
+        font-size: 14px;
+    }
+
+    .pricingBox .discountPrice li .oldPrice {
+        font-size: 14px;
+    }
+
+    .pricingBox .discountPrice li:nth-of-type(2) {
+        margin-right: 0;
+    }
+
+    .footerWrap .footerLinks {
+        flex-wrap: wrap;
+        gap: 10px 0;
+    }
+
+    .footerWrap .footerLinks li a {
+        padding-right: 8px;
+        margin-right: 8px;
+        border-right: 1px solid #000;
+    }
+
+    .footerWrap .contactLinks {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .footerWrap .copyrightText {
+        margin-top: 40px;
+    }
+
+    .hurryOrder .orderNow {
+        max-width: 260px;
+        height: 46px;
+        font-size: 23px;
+    }
+
+    .hurryOrder .orderNow img {
+        width: 10px;
+    }
+
+    .pricingBox {
+        padding: 0px 15px 30px 15px;
+        max-width: 380px;
+        width: 100%;
+    }
+
+    .promiseWrap h1::before {
+        display: none;
+    }
+
+    .promiseWrap h1::after {
+        display: none;
+    }
+
+    .promiseWrap li h2 {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    .promiseWrap li {
+        max-width: 50px;
+    }
+
+    .promiseWrap li img {
+        height: auto;
+    }
+
+    .product-detail {
+        h2 {
+            text-align: center;
+        }
+    }
+
+    .ingredientsWrap .ingredients-detail .pillsTitle {
+        font-size: 16px;
+    }
+
+    .radioMob {
+        display: flex;
+        margin-top: 30px;
+
+        .purchaseLi {
+            width: 50%;
+            position: relative;
+            background-color: #f7f7f7;
+            color: #13a89e;
+
+            &.activeBox {
+                background-color: #ec489e;
+                color: #fff;
+
+                p {
+                    display: block;
+                }
+            }
+
+            p {
+                display: none;
+                font-size: 11px;
+                color: #000;
+                position: absolute;
+                bottom: -20px;
+                width: 100%;
+                text-align: center;
+            }
+
+            a {
+                font-size: 14px;
+                padding: 12px 3px;
+                background-color: inherit;
+                color: inherit;
+                font-weight: 700;
+            }
+        }
+    }
+
+    .pricingBox .offPercent h1 {
+        font-size: 25px;
+    }
+
+    .pricingBox .offPercent h1 span {
+        font-size: 16px !important;
+    }
+
+    .pricingBox .offPercent {
+        width: 80px;
+        height: 80px;
+    }
+
+    .pricingBox .offPercent.percent40 {
+        height: 75px;
+        width: 70px;
+    }
+
+    .bannerWrap {
+        padding-bottom: 85px;
+    }
+
+    .pricingTable p {
+        font-size: 13px;
+    }
+
+    .pricingTable .mainLogo {
+        max-width: inherit;
+        width: 95px;
+    }
+
+    .complexRight {
+        margin-top: 35px;
+    }
+
+    .testimonialsInner li h1.fs32 {
+        margin-bottom: 10px;
+    }
+
+    .pricingTable td {
+        width: 100%;
+    }
+
+    .complexLeft h1 {
+        margin-bottom: 10px;
+    }
+
+    // .checkout page start 
+    .checoutTimer h4 {
+        font-size: 12px;
+    }
+
+    .checoutTimer h3 {
+        font-size: 12px;
+    }
+
+    .paymentForm .payment_according label {
+        font-size: 16px;
+    }
+
+    .paymentForm .payment_form_box .paypalBox {
+        max-width: 190px;
+    }
+
+    .paymentForm .payment_form_box h2 {
+        padding-top: 10px;
+    }
+
+    .whyDNA .ingredientsWrap li {
+        margin-top: 0;
+    }
+
+    .whyDNA .testimonialsInner .customerImg {
+        min-width: 27px;
+        min-height: 27px;
+    }
+
+    .checkoutFooter ul {
+        flex-wrap: wrap;
+        margin-bottom: 15px;
+    }
+
+    .checkoutFooter ul li {
+        font-size: 14px;
+    }
+
+    .checkoutFooter p {
+        font-size: 14px;
+    }
+
+    .checkBox__ {
+        margin-top: 18px;
+    }
+
+    .formInner {
+        gap: 15px 0;
+    }
+
+    .formInner .w50 {
+        width: 100%;
+    }
+
+    .quantityWrap li .bottlesImg::before {
+        font-size: 11px;
+    }
+
+    .quizNavbar .mainLogo {
+        max-width: 90px;
+    }
+
+    .quantityWrap li:nth-of-type(1) div:nth-of-type(1) {
+        gap: 15px;
+    }
+
+    .orderSummaryAccordin .accordion-body {
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+
+    .GuarantyWrap {
+        padding-top: 0;
+    }
+
+    .paymentForm .payment_form_box {
+        padding: 15px 8px;
+    }
+
+    .securePayment svg {
+        width: 14px;
+        height: 14px;
+    }
+
+    .securePayment {
+        height: 40px;
+        max-width: 165px;
+        display: none;
+    }
+
+    .orderSummaryAccordin .accordion-button {
+        padding-right: 0;
+    }
+
+    .whyDNA h1::before {
+        width: calc(50% - 90px) !important;
+    }
+
+    .whyDNA h1::after {
+        width: calc(50% - 90px) !important;
+    }
+
+    h2.productDescription {
+        line-height: 1.6;
+        padding: 0 15px;
+    }
+
+    .accordion-flush .accordion-body {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .accordianMain .accordion-button {
+        gap: 15px;
+        line-height: 1.3;
+    }
+
+    .productSteps .skin-type .skin-type-part {
+        justify-content: center;
+    }
+
+    .checkBox input[type=checkbox] {
+        min-width: 30px;
+        height: 32px;
+    }
+
+    //   Quiz page start 
+    #stepsForm fieldset {
+        margin-bottom: 20px;
+        height: 100%;
+        max-width: 340px;
+    }
+
+    #stepsForm fieldset h2 span {
+        position: unset;
+    }
+
+    .btmIcon {
+        bottom: 5px;
+        right: 8px;
+        position: absolute;
+        z-index: 9999;
+        max-width: 200px;
+    }
+
+    #stepsForm input.previous.action-button {
+        background-image: url(../img/leftARR.svg) !important;
+        background-size: contain;
+        background-repeat: no-repeat;
+        border: 0;
+        width: 25px;
+        font-size: 0;
+        height: 18px;
+        padding: 0;
+        position: absolute;
+        left: 10px;
+    }
+
+    .stepsButtons {
+        justify-content: center;
+        position: relative;
+        margin-top: auto;
+    }
+
+    .btmIcon .iconText {
+        right: 0px;
+        width: 200px;
+        margin-left: auto;
+    }
+
+    .btmIcon .sharpBorder {
+        left: -3px;
+    }
+
+    .btmIcon .notifyBadgeWrap {
+        right: 0;
+    }
+
+    #stepsForm input.next.action-button.nextBtnFull {
+        position: relative;
+        z-index: 999999;
+    }
+
+    .steps_wrapper {
+        height: auto;
+    }
+
+    .quizWrap {
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+
+    #stepsForm fieldset:nth-of-type(1) input.next.action-button {
+        width: calc(56% - 10px) !important;
+    }
+
+    .loader_wrapper .topBar {
+        padding: 15px;
+    }
+
+    .loader_wrapper .clientBox {
+        margin-bottom: 40px;
+        margin-top: 55px;
+        max-width: 320px;
+        padding: 25px 10px;
+    }
+
+    .loader_wrapper .clientBox .quoteImg {
+        width: 60px;
+    }
+
+    .loader_wrapper #myBar {
+        height: 25px;
+        border-radius: 0px 15px 15px 0px;
+        font-size: 14px;
+    }
+
+    .loader_wrapper.loader__wrapper {
+        position: fixed;
+        width: 100%;
+        top: 75px;
+    }
+
+    .buttonsBtmWrap {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+    }
+
+    #progressbar {
+        margin-top: 3px;
+        max-width: 340px;
+    }
+
+    .btmIcon .btmIconInner {
+        margin-bottom: 1px;
+    }
+
+    #stepsForm fieldset h2 {
+        margin-bottom: 10px;
+    }
+
+    #wistia-video-container .wistia_embed {
+        height: 350px !important;
+    }
+
+    #wistia-video-container #wistia_grid_29_main {
+        height: 350px !important;
+    }
+
+    // healthcare page start 
+    .healthcareHero .heroContent h1 {
+        margin-bottom: 15px;
+    }
+
+    .healthcareHero .heroInner {
+        gap: 20px;
+    }
+
+    .heroNext .logosWrap {
+        gap: 15px;
+        flex-wrap: wrap;
+        padding-top: 50px;
+        padding-bottom: 30px;
+
+        .logoImg {
+            max-width: 150px;
+            width: 100%;
+        }
+    }
+
+    .heroNext .howItWorks .boxWrap {
+        width: 100%;
+    }
+
+    .healthTestimonials .testimonialsContent li {
+        padding: 20px 15px;
+        gap: 10px;
+
+        h2 {
+            padding: 0;
+            border-top: 0;
+        }
+    }
+
+    .healthTestimonials .testimonialsInner {
+        padding: 0;
+    }
+
+    .getInstPlan .getInstPlanInner {
+        padding: 30px 0px;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+    }
+
+    .getInstPlan .getInstPlanInner h1 {
+        font-size: 18px;
+    }
+
+    .EnrollNowBtn {
+        max-width: 190px;
+        height: 50px;
+    }
+
+    .disclaimerWrap {
+        padding-top: 50px;
+    }
+
+    #healthcareFrom .formInner {
+        padding: 15px;
+    }
+
+    #healthcareFrom .formInner .formContent {
+        flex-wrap: wrap;
+    }
+
+    #healthcareFrom {
+        z-index: 999;
+    }
+
+}
+
+@media (max-width: 485.98px) {
+    .productSlider .largeView {
+        height: auto;
+        object-fit: cover;
+    }
+}
+
+// `xsm` applies to x-small devices (portrait phones, less than 576px)
+@media (max-width: 385.98px) {
+    .footerWrap .contactLinks li a img {
+        width: 15px;
+    }
+
+    .footerWrap .contactLinks a {
+        gap: 3px;
+        font-size: 14px;
+    }
+
+    .productSlider .smallView {
+        height: 85px;
+    }
+
+    h2.productDescription {
+        padding: 0 5px;
+    }
+
+    .pricingBox .discountPrice li img {
+        height: 120px;
+        width: 120px;
+    }
+
+    .pricingBox .discountPrice {
+        justify-content: space-between;
+        gap: 3px;
+    }
+
+    .productSlider .largeView {
+        height: auto;
+        object-fit: cover;
+    }
+
+    .pricingBox .offPercent.percent40 {
+        height: 65px;
+        width: 55px;
+    }
+
+    .pricingBox .offPercent h1 {
+        font-size: 18px;
+    }
+
+    .pricingBox .offPercent h1 span {
+        font-size: 13px !important;
+    }
+
+    .pricingBox .discountPrice li img {
+        width: 95px;
+    }
+
+    .pricingBox .discountPrice li span {
+        font-size: 12px;
+    }
+
+    .pricingBox .newPrice h1 {
+        font-size: 38px;
+    }
+
+    .pricingBox .newPrice sup {
+        font-size: 10px;
+        top: 12px;
+        right: 12px;
+    }
+
+    .pricingBox .newPrice span {
+        font-size: 10px !important;
+    }
+
+    .pricingBox .youSave h3 {
+        font-size: 14px;
+    }
+
+    .pricingBox .youSave a {
+        font-size: 24px;
+    }
+
+    .pricingBox .addCart {
+        padding: 10px;
+
+        img {
+            width: 25px;
+        }
+    }
+
+    .pricingBox .addCart h2 {
+        font-size: 18px;
+    }
+
+    .pricingBox .freeShipping p {
+        font-size: 15px;
+    }
+
+    .pricingBox .bestValue p {
+        font-size: 14px;
+    }
+
+    .pricingBox .offPercent {
+        width: 60px;
+        height: 60px;
+    }
+
+    .pricingBox .discountPrice li:nth-of-type(2) {
+        max-width: 150px;
+        width: 100%;
+    }
+
+    .pricingBox .savingDNA {
+        font-size: 9px;
+        max-width: 110px;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+
+    .saleStock {
+        margin-top: 15px;
+        gap: 5px;
+        flex-direction: column;
+    }
+
+    .saleStock span {
+        width: 20px;
+        height: 2px;
+    }
+
+    .promiseWrap li {
+        max-width: 35px;
+    }
+
+    .productSteps .skin-type .skin-type-part img {
+        width: 25px;
+    }
+
+    .productSteps .research-detail {
+        gap: 20px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    .productSteps .approved-tag img {
+        max-width: 78px;
+    }
+
+    .ingredients-detail img {
+        width: 70px;
+    }
+
+    .ingredientsWrap .use-step {
+        font-size: 14px;
+        max-width: 65px;
+        padding: 3px;
+    }
+
+    .ingredientsWrap .ingredients-detail {
+        gap: 8px !important;
+    }
+
+    .ingredientsWrap li+li {
+        margin-top: 25px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    .accordianMain .accordion-button {
+        gap: 10px;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .accordianMain .accordion-button::after {
+        background-size: 15px;
+    }
+
+}
+
+@media (max-width: 300px) {
+    .pricingBox .offPercent {
+        position: unset;
+        transform: unset;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+}

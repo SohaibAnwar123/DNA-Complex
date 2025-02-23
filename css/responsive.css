@@ -1,0 +1,5591 @@
+@media (max-width: 1600px) {
+  .hero-sec {
+    padding: 15px 0px;
+  }
+}
+
+@media (max-width: 1499px) {
+  .researcher-img img {
+    width: 100%;
+  }
+
+  .sera-lab-main .sera-lab-left {
+    max-width: 770px;
+  }
+
+  .image-slider button.slick-next.slick-arrow::before,
+  .testimonial-slider button.slick-next.slick-arrow::before {
+    right: 8px;
+  }
+
+  .image-slider button.slick-prev.slick-arrow::before,
+  .testimonial-slider button.slick-prev.slick-arrow::before {
+    left: 8px;
+  }
+
+}
+
+@media (max-width: 1399px) {
+  .breathtaking h3 {
+    padding-bottom: 22px;
+    font-size: 26px;
+  }
+  .sustained-result-main .video-sec-box a.offer-btn-two {
+    font-size: 24px;
+  }
+
+  section.sterper-box .container {
+    max-width: 1432px;
+  }
+
+  /* header section */
+  .hero-title {
+    font-size: 55px;
+  }
+
+  .hero-title {
+    width: 96%;
+  }
+
+  .hero-desc {
+    width: 100%;
+  }
+
+  .hero-sec {
+    padding: 0 36px;
+  }
+
+  .title {
+    font-size: 42px;
+  }
+
+  .businessman-img img {
+    object-fit: cover;
+    margin-left: 0%;
+  }
+
+  .about-arrow {
+    right: 60px;
+  }
+
+  /* night-time-2 page start */
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-main-text,
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-sub-text {
+    font-size: 43px;
+  }
+
+  .seratopical-revolution-left p:nth-child(2),
+  .seratopical-revolution-left p:nth-child(3),
+  .seratopical-revolution-left p:nth-child(4) {
+    margin-top: 40px;
+  }
+
+  /* night-time-2 page end */
+}
+
+@media (max-width: 1440px) {
+  .main-banner-sec .row.banner-sec {
+    padding: 120px 0 200px 0;
+  }
+}
+@media (max-width: 1200px) {
+  .product-items .bottles {
+    max-width: 160px;
+}
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1432px;
+  }
+  .disscount-boxes {
+    display: flex;
+    align-items: center;
+  }
+  .disscount-boxes .price-relative .free-text {
+    display: none !important;
+  }
+  .disscount-boxes .prise-set {
+    border: none !important;
+  }
+  .disscount-boxes .discount-img img {
+    width: 70%;
+  }
+  .new-price-relative .free-text {
+    border-top: 1px solid #D8D8D8;
+    padding-top: 11px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .new-prise-box-wrapper .new-prise-box .bottle-img {
+    margin-left: -70px;
+    margin-right: 90px;
+  }
+  .hero-desc {
+    font-size: 22px;
+  }
+  .prise-box{
+    max-width: 575px;
+    margin: 0 auto !important;
+  }
+  .product-price-box img.bottle-3{
+    max-width: 110px;
+  }
+
+  /* ------------------ vsl lander 2 page css start--------------- */
+  .beauty-expert-sec .beauty-expert-contant h2 {
+    font-size: 58px;
+  }
+
+  /* ------------------ vsl lander 2 page css close--------------- */
+
+}
+
+@media (max-width: 1399px) {
+  .new-prise-box-wrapper .new-prise-box .price-relative .prise-set sup{
+    right: 43px;
+  }
+  .price-relative.new-price-relative{
+    display: none !important;
+  }
+  .disscount-boxes {
+    display: inline-block;
+  }
+  /* Product Detail start */
+  .serum-detail p {
+    max-width: 360px;
+  }
+
+  /* Product Detail End */
+  /* ==========---------- product selection page start  ----------========== */
+  .product-selection-hero-section h1 {
+    font-size: 40px;
+  }
+
+  .launch-product {
+    padding: 24px;
+  }
+
+  .product-items {
+    padding: 22px;
+  }
+
+  .switch-fixed {
+    font-size: 20px;
+  }
+
+  /* switch css */
+  .switch-fixed .switch {
+    width: 75px;
+    height: 36px;
+    margin: 0px 10px;
+  }
+
+  .switch-fixed .slider:before {
+    height: 26px;
+    width: 26px;
+    left: 5px;
+    bottom: 5px;
+  }
+
+  .switch-fixed input:checked+.slider:before {
+    -webkit-transform: translateX(38px);
+    -ms-transform: translateX(38px);
+    transform: translateX(38px);
+    background: #5EB938;
+  }
+
+  .prise-box .bottom-box {
+    width: 90px;
+    height: 90px;
+    font-size: 18px;
+    line-height: 1.2;
+    border: 4px solid #ffffff;
+  }
+
+  .prise-box {
+    padding-top: 40px;
+    margin: 0px 8px;
+  }
+
+  .prise-disk h2 {
+    font-size: 50px;
+  }
+
+  .prise-box-wrapper {
+    margin-top: 60px;
+  }
+
+  .prise-box .apply-box {
+    margin-top: 20px;
+  }
+
+  .prise-box .apply-box .btn {
+    padding: 12px 16px;
+    font-size: 20px;
+  }
+
+  .prise-box .apply-box p {
+    font-size: 20px;
+  }
+
+  .product-items .money-back {
+    max-width: 150px;
+    top: 12%;
+    right: -2%;
+  }
+
+  /* ==========---------- product selection page end  ----------========== */
+  /* ==========---------- checkout section css start  ----------========== */
+  .checkout_right_sec {
+    padding-left: 12px;
+  }
+
+  .shipping_sec {
+    margin-top: 32px;
+  }
+
+  .two-input-box {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .input_box3 .select {
+    max-width: calc(50% - 4px);
+  }
+
+  .input_box3 select {
+    max-width: 100%;
+  }
+
+  .input_box3 {
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+
+  .input_box3 input {
+    max-width: 100%;
+  }
+
+  .input_box3 select,
+  .payment_input_sec select,
+  .input_box input {
+    padding: 16px 12px;
+    font-size: 20px;
+  }
+
+  .input_box input::placeholder {
+    font-size: 20px;
+  }
+
+  .check_box {
+    padding: 20px 16px;
+  }
+
+  .money_back_sec img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .lining-text-title h2,
+  .shipping_sec h2,
+  .payment_sec h2 {
+    font-size: 34px;
+  }
+
+  .money_back_contant .money_contant h3 {
+    font-size: 28px;
+  }
+
+  .customer-testimonials .testimonial-wrapper .testimonial-logo {
+    min-width: 80px;
+    min-height: 80px;
+  }
+
+  .customer-testimonials .testimonial-content {
+    margin-left: 22px;
+  }
+
+  .testimonial-wrapper {
+    margin-bottom: 36px;
+  }
+
+  .payment_form_box .payment_input_sec input,
+  .payment_form_box .payment_input_sec select {
+    font-size: 20px;
+    padding: 16px 12px;
+  }
+
+  .payment_form_box .icon_question input {
+    padding: 16px 26px 16px 12px;
+  }
+
+  /* ==========---------- checkout section css end  ----------========== */
+
+}
+
+@media (max-width: 1199px) {
+  .gif-slider {
+    height: 522px;
+  }
+
+  .offer-title,
+  .step-sec ul>li,
+  p.cream-info {
+    font-size: 22px;
+  }
+
+  .hero-title {
+    font-size: 46px;
+  }
+
+  .hero-desc {
+    width: 100%;
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .order-check {
+    font-size: 22px;
+    max-width: 646px;
+  }
+
+  .about-arrow {
+    right: -10px;
+  }
+
+  .video-desc-sec p {
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+
+  .crack-hell-detls p,
+  .no-way-sec p,
+  .prod-info {
+    font-size: 22px;
+    margin-bottom: 35px;
+  }
+
+  a.offer-btn {
+    padding: 22px 50px 22px 50px;
+    margin-top: 30px;
+    font-size: 22px;
+  }
+
+  .product-price .add-order {
+    font-size: 22px;
+    padding: 15px 40px 15px 40px;
+  }
+
+  .discount-text p {
+    color: #fff;
+    font-size: 22px;
+  }
+
+  .video-btn img {
+    width: 80%;
+  }
+
+  .lab-text {
+    margin-bottom: 30px;
+    font-size: 22px;
+  }
+
+  .customer-testimonials {
+    padding-top: 100px;
+  }
+
+  .main-banner-sec .row.banner-sec {
+    padding: 100px 0 200px 0;
+  }
+
+  .bothside-labpart {
+    flex-direction: column;
+  }
+
+  .right-side-box {
+    margin-top: 0;
+  }
+
+  .businessman-img img {
+    padding-top: 30px;
+  }
+
+  .bothside-labpart-two {
+    flex-direction: column-reverse;
+  }
+
+  .right-side-box {
+    margin-top: 0;
+  }
+
+  .businessman-img img {
+    margin-left: 0;
+  }
+
+  .lab-text {
+    margin-bottom: 30px;
+    font-size: 22px;
+  }
+
+  body {
+    font-size: 20px;
+  }
+
+  .revolution .revolution-content {
+    padding-left: 32px;
+  }
+
+  .revolution {
+    margin-bottom: 97px;
+  }
+
+  .accordian-question-main .accordion-button {
+    padding: 24px 24px;
+  }
+
+  .accordian-question-main .accordion-body {
+    padding: 24px;
+  }
+
+  /* ==========---------- vsl lander 2 page css start ----------========== */
+  .beauty-expert-sec .beauty-expert-contant h2 {
+    padding: 0px 16px;
+  }
+
+  .beauty-expert-sec .beauty-expert-contant h2 {
+    font-size: 48px;
+  }
+
+  /* ==========---------- vsl lander 2 page css close ----------========== */
+
+  /* Product Detail Start */
+  .client-img img {
+    width: 100%;
+  }
+
+  section.product-aboutdetail div#v-pills-tabContent .tab-pane {
+    padding: 40px 0 60px 30px;
+  }
+
+  .benefit-inner {
+    gap: 20px;
+  }
+
+  .research-detail {
+    gap: 22px;
+  }
+
+  .research-detail>img {
+    width: 100%;
+    max-width: 100px;
+  }
+
+  .research-detail div>img {
+    width: 100%;
+  }
+
+  .research-detail div>h3 {
+    font-size: 20px;
+  }
+
+  /* Product Detail End */
+  /* ==========---------- product selection page start  ----------========== */
+  .product-selection-hero-section h1 {
+    font-size: 32px;
+  }
+
+  .title {
+    font-size: 32px;
+  }
+
+  .launch-product {
+    padding: 20px;
+  }
+
+  .product-items {
+    padding: 16px;
+  }
+
+  .perfect-solution-main h4 {
+    font-size: 20px;
+  }
+
+  .benefits-list {
+    flex-direction: column;
+  }
+
+  .switch-fixed {
+    flex-wrap: wrap;
+    margin-left: 20px;
+  }
+
+  .perfect-solution-wrapper .perfect-solution-item {
+    font-size: 16px;
+    min-width: 80px;
+  }
+
+  .prise-box .bottom-box {
+    width: 80px;
+    height: 80px;
+    font-size: 16px;
+  }
+
+  .prise-box .best-value-text {
+    font-size: 8px;
+    left: -19px;
+    top: 16px;
+  }
+
+  .prise-box {
+    margin: 0px 4px;
+  }
+
+  .prise-disk h2 {
+    font-size: 40px;
+  }
+
+  .prise-disk h2 span {
+    font-size: 20px;
+    margin-bottom: 4px;
+  }
+
+  .prise-box .apply-box {
+    margin-top: 10px;
+  }
+
+  .prise-disk p {
+    font-size: 20px;
+  }
+
+  .prise-box .apply-box .btn {
+    padding: 10px 14px;
+    font-size: 18px;
+  }
+
+  .prise-box .apply-box p {
+    font-size: 16px;
+  }
+
+  .labs-promise-wrapper {
+    padding-top: 40px;
+  }
+
+  .labs-promise-wrapper img {
+    width: 100%;
+    max-width: 80px;
+  }
+
+  .launch-product .product-texts {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+  }
+
+  .about-arrow img {
+    transform: rotate(19deg);
+    top: 70px;
+    right: 32px;
+  }
+
+  /* ==========---------- product selection page end  ----------========== */
+  /* footer start */
+  .wrapper-link li {
+    font-size: 20px;
+  }
+
+  .contact-link li {
+    padding-right: 20px;
+    font-size: 20px;
+  }
+
+  .footer-detail p {
+    font-size: 20px;
+  }
+
+  .copyright-main p {
+    font-size: 20px;
+  }
+
+  /* footer end */
+  /* ==========---------- checkout section css start  ----------========== */
+  .checkout_right_sec {
+    padding-left: 0;
+  }
+
+  .lining-text-title h2,
+  .shipping_sec h2,
+  .payment_sec h2 {
+    font-size: 32px;
+  }
+
+  .attention_box h5 {
+    padding: 12px 16px;
+    font-size: 16px;
+  }
+
+  .check_box p {
+    font-size: 22px;
+  }
+
+  .check_box {
+    margin-bottom: 36px;
+  }
+
+  .checkout_btn a {
+    font-size: 32px;
+  }
+
+  .money_back_contant .money_contant h3 {
+    font-size: 26px;
+  }
+
+  .money_back_contant .money_contant p {
+    font-size: 22px;
+  }
+
+  .money_back_sec img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .customer-testimonials .testimonial-wrapper .testimonial-logo {
+    min-width: 60px;
+    min-height: 60px;
+  }
+
+  .customer-testimonials .testimonial-wrapper .testimonial-disc {
+    font-size: 22px;
+  }
+
+  .pay_sec {
+    margin-top: 8px;
+  }
+
+  .checkout_footer_sec ul {
+    flex-wrap: wrap;
+    padding: 20px 12px 20px 0;
+  }
+
+  .checkout_footer_sec {
+    padding-bottom: 20px;
+  }
+
+  /* ==========---------- checkout section css end  ----------========== */
+  /* nighttime-2 page start */
+  .oscars-sec-main .eyes-detail-main {
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+
+  .oscars-sec-main .eyes-detail-main .eyes-contain {
+    width: 29%;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-main-text,
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-sub-text {
+    font-size: 37px;
+  }
+
+  .night-routine-moisturizer-con .night-routine-main-round {
+    margin-bottom: 10px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-contant .night-routine-round {
+    width: 35px;
+    height: 35px;
+    font-size: 22px;
+    line-height: 34px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-contant h3 {
+    font-size: 30px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-contant p {
+    font-size: 22px;
+  }
+
+  .seratopical-revolution-left p:nth-child(2),
+  .seratopical-revolution-left p:nth-child(3),
+  .seratopical-revolution-left p:nth-child(4) {
+    margin-top: 30px;
+  }
+
+  .researcher-img {
+    max-width: 386px !important;
+  }
+
+  .sera-lab-main .sera-lab-left {
+    max-width: 646px;
+  }
+
+  /* nighttime-2 page end */
+
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  
+  .businessman-img img {
+    height: auto !important;
+    width: 56% !important;
+    margin: auto;
+  }
+
+  .bothside-labpart .businessman-img {
+    text-align: center;
+  }
+}
+
+/* nighttime page start */
+@media (max-width: 1200px) {
+  .video-sec-box a.offer-btn-two {
+    padding: 25px 70px;
+    font-size: 22px;
+  }
+
+  .video-sec-box .discount-coupen {
+    font-size: 22px;
+  }
+}
+
+/* nighttime page start */
+@media (max-width: 1024px) {
+  .hero-title {
+    font-size: 40px;
+  }
+
+  .hero-desc {
+    font-size: 20px;
+    line-height: 26px;
+  }
+
+  .hero-title {
+    width: 100%;
+  }
+
+  .appoiment-demo-sec br {
+    display: none;
+  }
+
+  .video-btn img {
+    width: 80%;
+  }
+
+  .about-sec button.btn-close {
+    left: 50%;
+  }
+
+  .contact-dtls>span {
+    font-size: 22px;
+  }
+
+
+  /* ==========---------- vsl lander 2 page css start ----------========== */
+  .beauty-expert-sec .beauty-expert-contant h2 {
+    font-size: 45px;
+  }
+
+  .beauty-expert-sec {
+    height: 400px;
+  }
+
+  /* ==========---------- vsl lander 2 page css close ----------========== */
+  /* nighttime page start */
+  .video-sec-box .discount-coupen {
+    font-size: 20px;
+  }
+
+  /* nighttime page end */
+}
+
+@media (max-width: 991px) {
+  .pay_sec {
+    padding-bottom: 0;
+  }
+
+  .customer-testimonials.customer-reviews {
+    padding-bottom: 16px;
+  }
+
+  .order-discount h2 {
+    display: none;
+  }
+
+  .about-arrow img {
+    transform: rotate(354deg);
+    right: 26px;
+  }
+
+  .order-discount {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  img.hero-sec-img {
+    width: 70%;
+  }
+
+  .hero-title {
+    font-size: 36px;
+  }
+
+  .hero-sec {
+    padding: 36px 36px 0 36px;
+  }
+
+  .offer-title,
+  .step-sec ul>li,
+  p.cream-infol,
+  a.offer-btn {
+    font-size: 18px;
+  }
+
+  .step-sec {
+    padding: 20px 0;
+  }
+
+  .title {
+    font-size: 36px;
+    line-height: 44px;
+  }
+
+  .order-check {
+    font-size: 20px;
+    max-width: 594px;
+  }
+
+  .crack-hell-info {
+    padding: 60px 16px 40px 16px;
+  }
+
+  .video-desc-sec p,
+  .crack-hell-detls p,
+  .no-way-sec p,
+  .prod-info {
+    font-size: 20px;
+    margin-bottom: 26px;
+  }
+
+  .crack-hell-detls p br {
+    display: none;
+  }
+
+  .no-way-sec {
+    margin-top: 10px;
+  }
+
+  .discount-text {
+    margin-bottom: 35px;
+  }
+
+  .offer-title {
+    font-size: 18px;
+  }
+
+  .crack-hell-info {
+    padding: 50px 16px 40px 16px;
+  }
+
+  .about-sec iframe {
+    position: relative;
+    max-width: 900px;
+    width: 100%;
+    height: 500px;
+  }
+
+  .businessman-img {
+    margin-top: -50px;
+  }
+
+  .right-side-box {
+    padding: 22px 22px 0px 12px;
+  }
+
+  .iab-univercity {
+    margin-bottom: 30px;
+  }
+
+  .iab-univercity img {
+    width: 100%;
+    padding-right: 45px;
+  }
+
+  .businessman-img img {
+    margin-left: 0;
+  }
+
+  .lab-heading {
+    font-size: 22px;
+  }
+
+  .lab-text {
+    margin-bottom: 25px;
+    font-size: 20px;
+  }
+
+  .linetop {
+    height: 80px;
+  }
+
+  .rightside-textdetails {
+    max-width: 75%;
+    margin-left: 15px;
+    padding: 17px 0 0px 0px;
+  }
+
+  .round_main_sec {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .round_img_info {
+    width: auto;
+  }
+
+  .round_contant {
+    border: none;
+    margin-top: 30px;
+  }
+
+  .round_contant p {
+    padding-left: 0;
+  }
+
+  .round_contant {
+    max-width: 762px;
+    text-align: center;
+  }
+
+  .round_cliant_contant {
+    margin: 38px 0px 0px 32px;
+  }
+
+  .hero_img .video_sec iframe {
+    height: 495px;
+  }
+
+  /* ==========---------- vsl lander 2 page css start ----------========== */
+  .beauty-expert-sec .beauty-expert-contant h2 {
+    font-size: 40px;
+    padding: 0px 20px;
+  }
+
+  .beauty-expert-sec {
+    height: 360px;
+  }
+
+  .beauty-peragraph-sec p {
+    font-size: 20px;
+  }
+
+  .beauty-expert-sec .beauty-expert-contant h2 br {
+    display: none;
+  }
+
+  .beauty-peragraph-sec .beauty-expert-peragraph-con p {
+    margin-bottom: 32px;
+  }
+
+  .beauty-expert-peragraph-con h6 {
+    margin-bottom: 40px;
+  }
+
+  .beauty-btn {
+    margin: 60px 0px;
+    padding: 20px 10px;
+  }
+
+  .beauty-peragraph-sec {
+    padding: 50px 0px 0px 0px;
+  }
+
+  .vsl-lander-footer-sec p {
+    margin-bottom: 40px;
+  }
+
+  .beauty-play-video-btn a {
+    font-size: 30px;
+  }
+
+  .beauty-play-video .beauty-video {
+    padding: 0;
+  }
+
+  .beauty-play-video-btn {
+    margin: 32px auto;
+    padding: 20px 34px;
+  }
+
+  .vsl-lander-footer {
+    background-color: #f7f7f7;
+    padding: 60px 0px 57px 0px;
+  }
+
+  /* ==========---------- vsl lander 2 page css close ----------========== */
+  /* header */
+  .header-wrapper-inner {
+    gap: 24px;
+  }
+
+  .header-wrapper-inner li a {
+    font-size: 16px;
+  }
+
+  .email-section {
+    padding: 45px 0 50px;
+  }
+
+  .main-banner-sec .row.banner-sec {
+    padding: 70px 0 200px 0;
+  }
+
+  /* nighttime page start */
+  .video-sec-box a.offer-btn-two {
+    padding: 22px 50px;
+  }
+
+  .nighttime-main-sec .banner-sec {
+    padding: 30px 0 120px 0;
+  }
+
+  .nighttime-main-sec .banner-sec .col-md-6 {
+    width: 70%;
+  }
+
+  /* nighttime page end */
+  /* ==========---------- product selection page start  ----------========== */
+  .launch-product {
+    flex-direction: column;
+    gap: 28px;
+    margin-top: -140px;
+  }
+
+  .launch-product-left,
+  .launch-product-right {
+    max-width: 100%;
+  }
+
+  .product-items {
+    background-color: #ffffff;
+    padding: 0;
+  }
+
+  .product-items .money-back {
+    max-width: 150px;
+    top: 13%;
+    right: 25%;
+  }
+
+  .product-selection-hero-section h1 {
+    font-size: 28px;
+  }
+
+  .perfect-solution-wrapper .perfect-solution-item {
+    min-width: 33%;
+  }
+
+  .perfect-solution-wrapper {
+    padding-bottom: 20px;
+  }
+
+  .product-texts i {
+    margin-right: 8px;
+  }
+
+  .perfect-solution-main {
+    padding-top: 40px;
+    position: relative;
+  }
+
+  .perfect-solution-main h4 {
+    padding: 0 20px;
+    background-color: #ffffff;
+    position: absolute;
+    top: -0;
+    left: 50%;
+    margin-bottom: 0;
+    width: fit-content;
+    transform: translate(-50%, -50%);
+  }
+
+  .mockup-slide-nav {
+    padding-bottom: 50px;
+  }
+
+  .labs-promise::after,
+  .labs-promise::before {
+    max-width: 20%;
+  }
+
+  .benefits-list li {
+    font-size: 18px;
+  }
+
+  .labs-promise-wrapper {
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    row-gap: 23px;
+  }
+
+  .labs-promise-wrapper>div {
+    width: 33.33%;
+  }
+
+  .labs-promise-wrapper>div p {
+    text-align: center;
+  }
+
+  /* email section start */
+  .contact-box .icon-box {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto -25px;
+  }
+
+  .contact-box {
+    display: block;
+    padding: 0;
+  }
+
+  .contact-box>li {
+    margin: 0 auto 12px;
+  }
+
+  .contact-box>li:nth-child(2) {
+    margin-bottom: 0;
+  }
+
+  .contact-dtls {
+    padding: 40px 15px 18px;
+  }
+
+  .contact-dtls>span {
+    word-break: break-all;
+  }
+
+  /* email section end */
+  /* ==========---------- product selection page end  ----------========== */
+  /* DNA Complex Customer Testimonials start */
+  .sub-title {
+    font-size: 24px;
+  }
+
+  .title {
+    font-size: 32px;
+  }
+
+  .customer-testimonials {
+    padding-top: 30px;
+  }
+
+  .customer-testimonials .testimonial-wrapper .testimonial-disc,
+  .customer-testimonials .testimonial-oner,
+  .testimonial-ratiing p {
+    font-size: 18px;
+  }
+
+  .customer-testimonials .testimonial-wrapper .testimonial-logo {
+    min-width: 70px;
+    min-height: 70px;
+  }
+
+  .customer-testimonials .testimonial-ratiing {
+    padding: 8px 0px;
+  }
+
+  /* DNA Complex Customer Testimonials end */
+  /* About Seratopical Revolution start  */
+  .revolution-wrapper {
+    gap: 20px;
+  }
+
+  .revolution .revolution-content {
+    padding-left: 0;
+  }
+
+  .revolution .revolution-bg {
+    background-size: auto;
+  }
+
+  .revolution .revolution-content h2 {
+    padding: 20px 0 20px;
+    font-size: 28px;
+    line-height: 1.2;
+  }
+
+  .revolution .revolution-content p {
+    font-size: 18px;
+  }
+
+  .revolution {
+    margin: 50px 0;
+  }
+
+  /* About Seratopical Revolution end */
+  /* Accordian Question Sec Start */
+  .accordian-question-main .accordion-button {
+    font-size: 24px;
+  }
+
+  .accordian-question-main {
+    padding: 60px 0 80px;
+  }
+
+  /* Accordian Question Sec End */
+  .ingredients-detail img {
+    max-width: 95px;
+  }
+
+  /* footer start */
+  .contact-link li {
+    padding-bottom: 14px;
+    padding-right: 0;
+  }
+
+  /* footer end */
+  /* ==========---------- checkout section css start  991 ----------========== */
+  .checkout_sec .col-6 {
+    width: 100%;
+  }
+
+  .checkout_logo {
+    padding: 16px 0;
+  }
+
+  .order-summary-main {
+    margin-bottom: 20px;
+  }
+
+  .order-summary-main .accordion-item {
+    border: 0;
+  }
+
+  .order-summary-main .accordion-button {
+    border-top: 1px solid #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+  }
+
+  .order-summary-main .accordion-button:not(.collapsed) {
+    box-shadow: none;
+  }
+
+  .order-summary-main .accordion-button {
+    color: #000;
+    background: transparent;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .order-summary-main .accordion-button .dna_sub_contant {
+    width: 100%;
+    padding-left: 10px;
+  }
+
+  .desktop-show-lgm {
+    display: none;
+  }
+
+  .order-summary-main .accordion-button:focus {
+    box-shadow: none;
+  }
+
+  .order-summary-main .accordion-button .dna_sub_contant strong {
+    font-family: AvertaStd-Regular;
+  }
+
+  .dna_complex_sec .dna_complex_img {
+    width: 35px;
+    height: 35px;
+  }
+
+  .dna_complex_sec .dna_complex_img img {
+    width: 100%;
+    height: 35px;
+    padding: 4px 8px;
+  }
+
+  .order-summary-main .accordion-button::after {
+    position: absolute;
+    left: 0;
+    background-image: url(../images/icon/arrow-down-black.svg);
+    background-position: center center;
+  }
+
+  .dna_complex_sec .dna_complex_img::after {
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+    line-height: 1.4;
+    top: -6px;
+    right: -8px;
+  }
+
+  .dna_complex_sec .dna_complex_img h3 {
+    font-family: AvertaStd-bold;
+  }
+
+  .dna_complex_sec {
+    padding-bottom: 12px;
+  }
+
+  .dna_sub_sec {
+    padding: 16px 0;
+  }
+
+  .dna_sub_sec .dna_sub_contant:not(:last-child) {
+    margin-bottom: 8px;
+  }
+
+  .order-summary-main .accordion-body {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .order-summary-main .accordion-body .dna_sub_sec h4 {
+    font-family: AvertaStd-Regular;
+  }
+
+  .attention_box {
+    margin-top: 12px;
+  }
+
+  .checkout_footer_sec {
+    position: relative;
+  }
+
+  .checkout_footer_sec ul {
+    justify-content: center;
+  }
+
+  .checkout_footer_sec p {
+    text-align: center;
+  }
+
+  .product-right-details:before {
+    display: none;
+  }
+
+  .product-right-details {
+    border-left: 0;
+  }
+
+  .checkout_right_sec {
+    padding-top: 0;
+  }
+
+  .lining-text-title h2 {
+    background-color: white;
+  }
+
+  .shipping_sec {
+    margin-top: 16px;
+  }
+
+  /* ==========---------- checkout section css end  991 ----------========== */
+
+  /* ======----nighttime-2 page start-----====== */
+  .secret-weapon-main .nicole-img {
+    margin: 0 auto;
+  }
+
+  .secret-weapon-main {
+    padding: 40px 0 53px;
+  }
+
+  .lab-text-second {
+    width: 91%;
+  }
+
+  p.lab-text.lab-text-p {
+    width: 80%;
+  }
+
+  .researcher-img {
+    display: flex;
+    align-items: end;
+    max-width: 386px !important;
+  }
+
+  .sera-lab-main .sera-lab-left {
+    max-width: 500px;
+  }
+
+  .researcher-img img {
+    height: auto !important;
+  }
+
+  .products-info {
+    padding: 80px 0 50px;
+  }
+
+  .makeup-slider button.slick-arrow::before {
+    position: absolute;
+    content: "";
+    background-image: url(../images/icon/slickarrow.svg);
+    width: 32px;
+    height: 59px;
+    left: -13px;
+    opacity: 1;
+    background-size: cover;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .makeup-slider button.slick-prev.slick-arrow::before {
+    left: 0px;
+    background-image: url(../images/icon/left-arrow.svg);
+  }
+
+  .makeup-slider .slick-dots {
+    display: none !important;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-main-text {
+    font-size: 36px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-sub-text {
+    font-size: 30px;
+    margin-top: 12px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-paragraph-con p {
+    font-size: 20px;
+    line-height: 26px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-paragraph-con p:nth-child(1) {
+    margin-bottom: 35px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-paragraph-con p:nth-child(2) {
+    margin-bottom: 31px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-paragraph-con p:nth-child(3) {
+    margin-bottom: 30px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-paragraph-con p:nth-child(4) {
+    margin-bottom: 38px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-paragraph-con p:nth-child(5) {
+    padding-bottom: 47px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-contant h3 {
+    font-size: 24px;
+    white-space: nowrap;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-contant p {
+    font-size: 20px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-contant .night-routine-round {
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    line-height: 29px;
+    margin-right: 8px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-con {
+    gap: 30px;
+  }
+
+  .seratopical-revolution-sec .seratopical-revolution-con h2 {
+    font-size: 35px;
+  }
+
+  .seratopical-revolution-left p {
+    font-size: 20px;
+  }
+
+  .seratopical-revolution-right {
+    max-width: 413px;
+    width: 100%;
+  }
+
+  .seratopical-revolution-right img {
+    max-width: 400px;
+    width: 100%;
+  }
+
+  .seratopical-revolution-left p:nth-child(2),
+  .seratopical-revolution-left p:nth-child(3),
+  .seratopical-revolution-left p:nth-child(4) {
+    margin-top: 20px;
+  }
+
+  .seratopical-revolution-sec .seratopical-revolution-right {
+    margin-top: 95px;
+  }
+
+  .seratopical-revolution-left {
+    margin-top: 90px;
+  }
+
+  .seratopical-revolution-sec {
+    padding-top: 32px;
+  }
+
+  .doctor-main {
+    padding: 70px 0px;
+  }
+
+  .money-back-guarantee .certificate {
+    padding: 122px 80px 82px 80px;
+  }
+
+  .makeup-slider .slick-arrow {
+    display: inline-block !important;
+  }
+
+  /* ======----nighttime-2 page end---===== */
+
+}
+
+
+@media (max-width: 767px) {
+  img.vsl-logo {
+    max-width: 106px;
+    width: 100%;
+  }
+  .product-price-box img{
+    margin-left: -40px;
+  }
+  .shipping_sec {
+    margin-top: 10px;
+  }
+
+  .spacial-order-sec .spacial-order-btn {
+    padding: 19px 7px;
+  }
+
+  .image-slider button.slick-next.slick-arrow::before,
+  .testimonial-slider button.slick-next.slick-arrow::before {
+    right: 5px;
+  }
+
+  .image-slider button.slick-prev.slick-arrow::before,
+  .testimonial-slider button.slick-prev.slick-arrow::before {
+    left: 5px;
+  }
+
+  .image-slider button.slick-arrow::before,
+  .testimonial-slider button.slick-arrow::before {
+    width: 24px;
+    height: 43px;
+  }
+
+  .visible.mobile-sticky {
+    position: sticky;
+    bottom: 0;
+    z-index: 99;
+    transition: all 0.3s;
+  }
+
+  .order-summary-main .accordion-body .dna_sub_sec h4,
+  .dna_sub_section .dna_sub_contant h4 {
+    font-size: 18px;
+  }
+
+  .revolution .revolution-bg {
+    background-image: none;
+  }
+
+  .web-logo img {
+    width: 100%;
+    max-width: 180px;
+  }
+
+  .spacial-order-sec .spacial-order-btn a {
+    font-size: 18px !important;
+  }
+
+  .seratopical-bottle img {
+    padding: 15px 0px;
+    max-width: 260px;
+  }
+
+  .customer-testimonials .testimonial-content {
+    margin-left: 0;
+  }
+
+  .customer-testimonials .testimonial-wrapper .testimonial-logo {
+    min-width: 27px;
+    min-height: 27px;
+    font-size: 14px;
+  }
+
+  .customer-testimonials .testimonial-wrapper .testimonial-disc {
+    font-size: 16px;
+    line-height: 26px;
+    padding-top: 5px;
+  }
+
+  .border-b {
+    border-bottom: 2px solid #c9c9c9;
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+  }
+
+  .title {
+    font-size: 24px;
+    line-height: 1.4;
+  }
+
+  .three-bottles-content {
+    padding: 0 20px;
+  }
+
+  .rightside-textdetails {
+    padding: 0px 0 0px 0px;
+    max-width: 76%;
+  }
+
+  .iab-univercity img {
+    padding-right: 0px;
+  }
+
+  .right-side-box {
+    padding: 22px 22px 0px 12px;
+  }
+
+  .offer-title,
+  .step-sec ul>li,
+  p.cream-info {
+    font-size: 20px;
+  }
+
+  .step-sec {
+    padding: 12px 0;
+  }
+
+  .hero-title {
+    font-size: 30px;
+  }
+
+  img.hero-sec-img {
+    width: 100%;
+  }
+
+  .offer-title {
+    font-size: 14px;
+  }
+
+  p.cream-info {
+    font-size: 16px;
+    line-height: 26px;
+    padding: 16px 17px 15px 19px;
+  }
+
+  .appoiment-demo-sec.title {
+    font-size: 20px;
+    line-height: 1.3;
+  }
+
+  .offer-title,
+  p.cream-infol {
+    font-size: 20px;
+    padding: 0 0 10px 0;
+  }
+
+  .step-sec ul>li {
+    font-size: 18px;
+    white-space: nowrap;
+  }
+
+  .step-sec>ul {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .offer-title {
+    font-size: 14px;
+    padding: 7px 20px;
+
+  }
+
+  .order-check p {
+    line-height: 24px;
+  }
+
+  .header-logo {
+    max-width: 180px;
+  }
+
+  .video-desc-sec p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  a.offer-btn {
+    padding: 20px 25px 20px 25px;
+    margin-top: 30px;
+    font-size: 15px;
+  }
+
+  a.offer-link-desc {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .crack-hell-detls p,
+  .no-way-sec p {
+    font-size: 18px;
+    margin-bottom: 26px;
+    text-align: center;
+  }
+
+  .product-img {
+    width: 100%;
+  }
+
+  .product-price .today-offer {
+    font-size: 16px;
+  }
+
+  .offer-alert {
+    font-size: 16px;
+  }
+
+  .product-desc {
+    padding: 20px 15px;
+  }
+
+  .offers-details .title.save-offer {
+    font-size: 24px;
+  }
+
+  .about-sec button.btn-close {
+    left: 50%;
+  }
+
+  .discount-text p {
+    font-size: 16px;
+  }
+
+  .offers-details .sub-title {
+    font-size: 24px;
+  }
+
+  .about-sec iframe {
+    position: relative;
+    max-width: 900px;
+    width: 100%;
+    height: 400px;
+  }
+
+  .lab-text {
+    margin-bottom: 25px;
+    font-size: 16px;
+  }
+
+  .email-section {
+    padding: 26px 0 25px;
+  }
+
+  .right-side-box::after {
+    background-size: cover;
+    width: 61px;
+  }
+
+  .lab-heading {
+    font-size: 20px;
+  }
+
+  .iab-univercity img {
+    max-width: 100px;
+  }
+
+  .iab-univercity img:nth-child(1) {
+    margin-right: 20px;
+  }
+
+  .lab-heading {
+    margin-bottom: 10px;
+  }
+
+  .lab-promise {
+    background: url(../images/img/mobile-bg.png) no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+  }
+
+  .item-logo .logo img {
+    max-width: 61px;
+  }
+
+  .linetop {
+    height: 50px;
+  }
+
+  .item-logo {
+    margin-right: 15px;
+  }
+
+  .right-side-box-two {
+    margin-top: 0;
+  }
+
+  .about-sec button.btn-close {
+    left: 50%;
+    font-size: 14px;
+  }
+
+  body {
+    font-size: 16px;
+  }
+
+  .header-wrapper {
+    justify-content: center;
+    padding: 6px 0;
+  }
+
+  .header-wrapper img {
+    max-width: 106px;
+    width: 100%;
+  }
+
+  .desktop-show,
+  .product-selection-hero-section h1 {
+    display: none;
+  }
+
+  .mobile-show {
+    display: block !important;
+  }
+
+  .mobile-show.our-launch-price {
+    display: flex !important;
+  }
+
+  .contact-dtls>span {
+    font-size: 16px;
+  }
+
+  .main-banner-sec .row.banner-sec {
+    padding: 40px 0 200px 0;
+  }
+
+  .prise-box-wrapper .prise-disk h2 {
+    font-size: 42px;
+  }
+
+  /* ==========---------- vsl lander 2 page css start ----------========== */
+  .spacial-order-main-right .order-light_contant span {
+    font-size: 14px;
+  }
+
+  .beauty-play-video-btn {
+    margin: 22px 0 35px;
+    line-height: 30px;
+  }
+
+  .beauty-peragraph-sec p:nth-child(1),
+  .beauty-peragraph-sec p:nth-child(2),
+  .beauty-peragraph-sec p:nth-child(3),
+  .beauty-peragraph-sec p:nth-child(4) {
+    margin-bottom: 18px;
+    font-size: 17px;
+  }
+
+  .beauty-expert-img {
+    margin: 28px 0px 14px;
+  }
+
+  .beauty-expert-peragraph-con h6 {
+    margin-bottom: 29px;
+    font-size: 12px;
+    line-height: 1.6;
+  }
+
+  .beauty-peragraph-sec {
+    padding: 20px 0px 0px 0px;
+  }
+
+  .beauty-btn {
+    margin: 16px 0px 14px;
+    padding: 21px 15px;
+  }
+
+  .beauty-play-video .beauty-video a {
+    padding: 12px 15px;
+  }
+
+  .vsl-lander-footer {
+    padding: 35px 0px 27px 0px;
+  }
+
+  .vsl-lander-footer-sec p {
+    display: none;
+  }
+
+  .vsl-lander-footer-sec .vsl-lander-mob {
+    margin-bottom: 25px;
+  }
+
+  .vsl-lander-footer-sec p {
+    font-size: 16px;
+    margin-bottom: 25px;
+    line-height: 1.6;
+  }
+
+  .beauty-play-video-con p,
+  .beauty-peragraph-sec p {
+    font-size: 17px;
+  }
+
+  .beauty-play-video-btn a {
+    font-size: 24px;
+  }
+
+  .beauty-play-video-con p:nth-child(1) {
+    padding: 22px 0px 30px;
+  }
+
+  .beauty-btn a,
+  .beauty-play-video {
+    font-size: 19px;
+  }
+
+  .beauty-video a {
+    font-size: 20px !important;
+  }
+}
+
+/* ==========---------- vsl lander 2 page css close ----------========== */
+@media (max-width: 1400px) {
+
+  .new-prise-box-wrapper{
+    flex-flow: column;
+  }
+  .new-prise-box-wrapper .prise-box-one{
+    order: 3;
+  }
+  .new-prise-box-wrapper .prise-box-two{
+    order: 1;
+  }
+  .new-prise-box-wrapper .prise-box-three{
+    order: 2;
+  }
+  .new-prise-box-wrapper .prise-box-one .bottle-img img,
+  .new-prise-box-wrapper .prise-box-three .bottle-img img,
+  .new-prise-box-wrapper .prise-box-two .bottle-img img{
+    margin-top: 0;
+  }
+  .new-prise-box-wrapper .new-prise-box{
+    position: relative;
+    margin-top: 80px;
+    padding: 55px 12px 0px 12px;
+  }
+  .checkout-testimonials .sub-title {
+    font-size: 26px;
+  }
+  .new-prise-box-wrapper .new-prise-box .discount-img {
+    position: absolute;
+    top: 0;
+    transform: translate(-120%, -50%);
+    left: 50%;
+  }
+  .new-prise-box-wrapper .new-prise-box .bottle-img{
+    display: inline-block;
+    width: 219px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative {
+    width: 190px;
+    display: inline-block;
+    position: relative;
+    bottom: -50px;
+    overflow: hidden;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative div{
+    justify-content: center;
+  }
+  .new-prise-box-wrapper{
+    margin: 0px -10px 0px -10px;
+  }
+  .new-prise-box-wrapper .new-prise-box p.saving-dna {
+      position: absolute;
+      transform: translate(100%, -50%);
+      right: 50%;
+      top: 0;
+  }
+
+  .checkout-testimonials.customer-reviews .testimonial-wrapper .testimonial-disc {
+    font-size: 18px;
+  }
+
+  /* nighttime page start */
+  .video-sec-box a.offer-btn-two {
+    padding: 22px 45px;
+    font-size: 20px;
+  }
+
+  .video-sec-box .discount-coupen {
+    font-size: 16px;
+  }
+
+  .saving-offers .down-aarrow {
+    display: none;
+  }
+
+  .saving-offers .offers-details>.limited-stock-title {
+    font-size: 16px;
+  }
+
+  .saving-offers .offers-details>.save-offer-two {
+    font-size: 24px;
+  }
+
+  .seratopical-revolution-sec .seratopical-revolution-con h2 {
+    color: #13a89e;
+  }
+
+  /* nighttime page end */
+  /* ==========---------- product selection page start  ----------========== */
+  /* hero-senction */
+  .bottle-serum {
+    /* max-width: 136px;
+    text-align: left;
+    width: 100%; */
+    justify-content: center;
+  }
+
+  .product-price-box {
+    justify-content: space-evenly !important;
+  }
+
+  .product-price-box {
+    flex-direction: row;
+    align-items: flex-start !important;
+  }
+
+  .prise-disk h2 {
+    justify-content: center;
+  }
+
+  .bottle-5 {
+    width: 36%;
+    max-width: 100%;
+  }
+
+  .bottle-5::before {
+    right: 0;
+  }
+
+  .product-items .money-back {
+    max-width: 109px;
+    top: 10%;
+    right: 19%;
+  }
+
+  .product-items .bottles {
+    max-width: 135px;
+  }
+
+  .launch-product {
+    margin-top: -200px;
+  }
+
+  .our-launch-price {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .our-launch-price p {
+    font-size: 14px;
+    padding: 0 26px;
+    text-align: center;
+  }
+
+  .our-launch-price .right-pink-arrow {
+    transform: rotate(180deg);
+  }
+
+  .product-selection-hero-section {
+    padding-top: 17px;
+    padding-bottom: 215px;
+  }
+
+  .launch-product .product-texts {
+    padding-top: 7px;
+    padding-bottom: 26px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .product-description h2,
+  .product-description-sub-title {
+    text-align: center;
+  }
+
+  /* .launch-product-right .product-texts, */
+  .launch-product-right>.product-description>h2,
+  .launch-product-right .product-description-sub-title {
+    display: none;
+  }
+
+  .perfect-solution-main h4 {
+    font-size: 16px;
+    padding: 0 18px;
+    width: fit-content;
+    white-space: nowrap;
+  }
+
+  .mockup-slide-show {
+    /* padding-bottom: 36px; */
+  }
+
+  .perfect-solution-wrapper .perfect-solution-item {
+    min-width: 30%;
+  }
+
+  .benefits-list {
+    gap: 18px;
+  }
+
+  .benefits-list h4 {
+    font-size: 20px;
+    gap: 8px;
+    margin-bottom: 13px;
+  }
+
+  .benefits-list li {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .benefits-list li img {
+    width: 14px;
+    height: 18px;
+  }
+
+  .single-purchase-text {
+    border-radius: 2px;
+    overflow: hidden;
+    margin-top: 30px;
+  }
+
+  .single-purchase-text p {
+    width: 100%;
+    text-align: center;
+    padding: 12px 8px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .prise-box-wrapper {
+    flex-direction: column;
+    gap: 47px;
+  }
+
+  .prise-box .best-value-box {
+    overflow: unset;
+    width: 0;
+    height: 0;
+  }
+
+  .prise-box .best-value-text {
+    font-size: 14px;
+    left: 0;
+    top: 10px;
+    padding: 2px 5px;
+    transform: unset;
+  }
+
+  .prise-box-wrapper .prise-disk h2 {
+    font-size: 50px;
+  }
+
+  .prise-box-wrapper .prise-disk h2 span {
+    margin-bottom: 8px;
+  }
+
+  .prise-box .bottom-box {
+    width: 76px;
+    height: 76px;
+    font-size: 16px;
+  }
+
+  .prise-disk p {
+    font-size: 16px;
+  }
+
+  .prise-box.center .apply-box {
+    padding-bottom: 13px;
+  }
+
+  .prise-box .apply-box .btn {
+    max-width: 320px;
+    width: 100%;
+    white-space: nowrap;
+  }
+
+  .prise-box .apply-box p {
+    padding-top: 8px;
+  }
+
+  .labs-promise::after,
+  .labs-promise::before {
+    display: none;
+  }
+
+  .labs-promise-wrapper>div {
+    width: 50%;
+  }
+
+  .labs-promise-section {
+    padding-top: 16px;
+    padding-bottom: 35px;
+  }
+
+  /* accordian sec Start */
+  .accordian-question-main .accordion-body {
+    padding: 20px;
+    font-size: 16px;
+  }
+
+  .accordian-question-main .accordion-button {
+    padding: 18px 50px;
+    font-size: 16px;
+  }
+
+  .accordian-question-main .accordion-item {
+    margin-top: 9px;
+  }
+
+  .accordian-question-main {
+    padding: 47px 20px 50px;
+  }
+
+  .footer-main .footer-logo {
+    max-width: 276px;
+  }
+
+  .accordian-question-main .accordion-button::after {
+    position: absolute;
+    left: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .accordian-question-main .accordion {
+    padding-top: 21px;
+  }
+
+  /* accordian sec end */
+  /* ==========---------- product selection page end  ----------========== */
+  /* Order discount Start */
+  .order-discount {
+    padding: 26px 0;
+  }
+
+  /* Order discount End */
+  /* footer start */
+  .wrapper-link li {
+    font-size: 16px;
+  }
+
+  .footer-sec {
+    padding: 0 20px;
+  }
+
+  .contact-link li {
+    font-size: 16px;
+  }
+
+  .footer-detail p {
+    padding: 35px 37px;
+    font-size: 16px;
+  }
+
+  .footer-detail {
+    margin-top: 40px;
+  }
+
+  .copyright-main {
+    padding: 28px 32px;
+  }
+
+  .copyright-main p {
+    font-size: 16px;
+  }
+
+  /* footer end */
+  /* DNA Complex Customer Testimonials start */
+  .owners-name {
+    font-size: 16px;
+    padding-left: 9px;
+    font-family: AvertaStd-Bold;
+  }
+
+  .customer-testimonials .testimonial-oner,
+  .testimonial-ratiing p {
+    font-size: 16px;
+  }
+
+  .testimonial-wrapper {
+    margin-bottom: 8px;
+  }
+
+  .customer-testimonials .titl-text {
+    padding-bottom: 30px;
+    font-size: 24px;
+  }
+
+  .customer-testimonials .testimonials-sec {
+    padding: 0 20px;
+  }
+
+  .about-video-sec img.video-section {
+    height: 490px;
+    object-fit: cover;
+  }
+
+  /* ==========---------- checkout section css start  767 ----------========== */
+  .order-summary-main {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .order-summary-main .accordion-button .dna_sub_contant strong {
+    font-size: 16px;
+  }
+
+  .dna_complex_sec .dna_complex_img h3,
+  .dna_complex_con span,
+  .dna_sub_contant strong,
+  .dna_sub_contant span {
+    font-size: 18px;
+  }
+
+  .dna_sub_sec {
+    padding: 12px 0;
+  }
+
+  .attention_box h5 {
+    font-size: 12px;
+    padding: 11px 8px;
+  }
+
+  .lining-text-title h2,
+  .shipping_sec h2,
+  .payment_sec h2 {
+    font-size: 24px;
+  }
+
+  .shipping_sec h3 {
+    font-size: 16px;
+  }
+
+  .input_box3 select,
+  .payment_input_sec select,
+  .input_box input {
+    padding: 12px 12px;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .input_box input::placeholder {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .input_box3 .select {
+    max-width: 100%;
+  }
+
+  .dna_complex_sec,
+  .dna_sub_sec {
+    border-bottom: 1px solid #dbdbdb;
+  }
+
+  .order-summary-main .accordion-body {
+    padding: 12px 0;
+  }
+
+  .dna_sub_section {
+    padding-top: 12px;
+  }
+
+  .shipping_sec {
+    margin-top: 4px;
+  }
+
+  .order-summary-main {
+    margin-bottom: 0;
+  }
+
+  .input_box3 .select i {
+    font-size: 24px;
+  }
+
+  .united_sec h3 {
+    font-size: 14px;
+  }
+
+  .united_sec h3 img {
+    width: 109px;
+  }
+
+  .united_sec p {
+    border-left: 1px solid #acacac;
+  }
+
+  .united_sec p span {
+    display: block;
+  }
+
+  .check_box p {
+    font-size: 16px;
+  }
+
+  .check_box {
+    padding: 15px 16px;
+  }
+
+  .check_box input {
+    margin-right: 7px;
+  }
+
+  .payment_sec p {
+    font-size: 16px;
+  }
+
+  .payment_sec h2 img {
+    margin-right: 3px;
+  }
+
+  .payment_form .accordion-button {
+    padding: 14px 12px;
+    font-size: 16px;
+  }
+
+  .payment_form .accordion-button label {
+    color: #000000 !important;
+    width: fit-content;
+  }
+
+  .paypal-img {
+    transform: translateY(-24%);
+  }
+
+  .payment_form .paypal-lable {
+    margin-bottom: -15px;
+  }
+
+  .checkout_btn a {
+    font-size: 27px;
+  }
+
+  .checkout_btn a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .payment_form_box .payment_input_sec input,
+  .payment_form_box .payment_input_sec select {
+    font-size: 16px;
+    padding: 13px 12px;
+    max-width: 100%;
+  }
+
+  .payment_form_box .payment_input_sec {
+    margin-bottom: 7px;
+    flex-wrap: wrap;
+  }
+
+  .payment_input_sec .select {
+    width: calc(50% - 6px);
+    max-width: 100%;
+  }
+
+  .payment_input_sec .icon_question {
+    max-width: 100%;
+  }
+
+  .payment_form_box {
+    padding: 14px 12px;
+  }
+
+  /* .credit_card_check {
+    margin-top: 6px;
+  } */
+  .payment_input_sec .icon_question i {
+    display: none;
+  }
+
+  .payment_input_sec .select i {
+    right: 0px;
+    font-size: 20px;
+  }
+
+  .checkout_btn {
+    max-width: 417px;
+    margin: 15px auto 0;
+  }
+
+  .pay_sec .applepay_img {
+    width: 50px;
+    height: auto;
+    margin-right: 11px;
+  }
+
+  .pay_sec .google_img {
+    width: 80px;
+    height: auto;
+    margin-right: -10px;
+  }
+
+  .pay_sec .after_img {
+    width: 120px;
+    height: auto;
+  }
+
+  .lining-text-title {
+    margin-top: 30px;
+  }
+
+  .money_back_sec img {
+    width: 48px;
+    height: 48px;
+  }
+
+  .money_back_contant .money_contant {
+    margin-left: 5px;
+  }
+
+  .money_back_contant .money_contant h3 {
+    font-size: 18px;
+  }
+
+  .money_back_contant .money_contant p {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+
+  .money_back_contant {
+    padding-bottom: 24px;
+  }
+
+  .customer-testimonials.customer-reviews .lining-text-title {
+    margin-bottom: 28px;
+  }
+
+  .checkout_footer_sec ul li a {
+    font-size: 14px;
+  }
+
+  .checkout_footer_sec p {
+    font-size: 14px;
+  }
+
+  .checkout_footer_sec ul {
+    padding: 20px 0 16px;
+  }
+
+  .payment_form .accordion-button {
+    flex-wrap: wrap;
+  }
+
+  .accordion-button::after {
+    width: 16px;
+    height: 16px;
+    background-size: contain;
+  }
+
+  .order-summary-main .accordion-button {
+    padding-right: 0;
+  }
+
+  /* ==========---------- checkout section css end  767 ----------========== */
+  /* DNA Complex Customer Testimonials end */
+  /* nighttime-2 page start */
+  .nighttime-main-sec .banner-contain {
+    margin: 0;
+  }
+
+  .nighttime-main-sec .banner-sec {
+    padding: 12px 0 140px 0;
+  }
+
+  .nighttime-main-sec .hero-sec.nighttime-banner-sec {
+    background-position: initial;
+  }
+
+  .nighttime-main-sec .banner-sec .col-5 {
+    width: 40%;
+  }
+
+  .nighttime-main-sec .banner-sec .col-7 {
+    width: 60%;
+  }
+
+  .step-sec li i {
+    padding-left: 4px !important;
+  }
+
+  .sustained-result-main .video-sec-box {
+    padding: 26px 16px 36px;
+  }
+
+  a.offer-link-desc {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .secret-weapon-main {
+    padding: 27px 0 53px;
+  }
+
+  .secret-weapon-main .secret-weapon-contain {
+    padding: 24px 0 30px;
+    gap: 30px;
+  }
+
+  .secret-weapon-main .secret-weapon-contain .secret-weapon-right p {
+    margin-bottom: 30px;
+  }
+
+  .secret-weapon-main h2 {
+    font-size: 30px;
+  }
+
+  .researcher-img {
+    margin-left: 0;
+    transform: none;
+  }
+
+  .sera-lab-main {
+    background-position: center;
+  }
+
+  .researcher-img {
+    position: absolute;
+    bottom: 0;
+    right: 0px;
+    max-width: 426px;
+  }
+
+  .sera-lab-main .lab-title h3 {
+    font-size: 24px;
+    padding-bottom: 30px;
+  }
+
+  .sera-lab-main .sera-lab-left {
+    padding: 53px 0 42px;
+  }
+
+  .oscars-sec-main h2 {
+    font-size: 30px;
+  }
+
+  .oscars-sec-main .eyes-detail-main {
+    gap: 10px;
+  }
+
+  .oscars-sec-main .eyes-detail-main .eyes-contain img {
+    width: 100%;
+    max-width: 68px;
+  }
+
+  .oscars-sec-main .eyes-detail-main .eyes-contain {
+    width: 46%;
+    padding: 39px 10px 30px;
+  }
+
+  .oscars-sec-main .eyes-detail-main h4 {
+    font-size: 16px;
+    padding-top: 14px !important;
+  }
+
+  .oscars-sec-main {
+    padding: 17px 0 27px;
+  }
+
+  .oscars-sec-main .oscars-details {
+    padding-top: 25px;
+    gap: 25px;
+  }
+
+  .oscars-sec-main .awards-detail {
+    padding: 25px 0;
+  }
+
+  .oscars-sec-main .eyes-detail-main {
+    padding-bottom: 30px;
+  }
+
+  .products-info {
+    padding: 39px 0 44px;
+  }
+
+  .products-info .information-text {
+    gap: 10px;
+  }
+
+  .information-text {
+    border-radius: 5px;
+    padding: 20px 18px 29px;
+  }
+
+  .oscars-sec-main h2 {
+    color: #13a89e;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-main-text {
+    font-size: 30px;
+    padding-top: 22px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-sub-text {
+    font-size: 16px;
+    font-family: AvertaStd-Semibold;
+  }
+
+  .nicole-kidman-sec .nivole-kidman-main-contant {
+    padding: 0 32px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-paragraph-con p {
+    font-size: 18px;
+  }
+
+  .powerful-ingredients-main-sec .powerful-ingredients-sec p {
+    font-size: 20px;
+  }
+
+  .seratopical-revolution-main-sec {
+    flex-direction: column;
+  }
+
+  .seratopical-revolution-sec .seratopical-revolution-right {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .seratopical-revolution-right {
+    margin-top: 50px !important;
+  }
+
+  .seratopical-revolution-left {
+    margin-top: 0px;
+  }
+
+  .doctor-main {
+    padding: 33px 0px 22px;
+  }
+
+  .doctor-details h3 {
+    font-size: 16px;
+  }
+
+  .offers-details {
+    margin: 50px auto 40px;
+  }
+
+  .money-back-guarantee .certificate {
+    padding: 100px 23px 32px 23px;
+    margin-bottom: 35px;
+  }
+
+  section.money-back-guarantee {
+    padding: 35px 0 0px;
+  }
+
+  .add-my-order {
+    margin: 21px 0px;
+    font-size: 24px;
+  }
+
+  section.Seratopical-mian .product-review-sec {
+    padding: 36px 16px 50px;
+  }
+
+  .product-review-title h2 {
+    color: #13a89e;
+    font-size: 30px;
+  }
+
+  .product-review-title h4 {
+    padding-bottom: 14px;
+    font-size: 16px;
+  }
+
+  .seratopical-revolution-sec {
+    padding: 32px 0 60px;
+  }
+
+  .nighttime-offer .offer-link {
+    font-family: AvertaStd-light;
+    margin-top: 27px !important;
+  }
+
+  .sera-lab-left .lab-text {
+    margin-bottom: 12px;
+  }
+
+  .sera-lab-main .iab-univercity img {
+    max-width: 172px;
+    width: 100%;
+  }
+
+  /* nighttime-2 page end */
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+
+  /* Product detail start */
+  section.product-aboutdetail div#v-pills-tab button {
+    font-size: 20px;
+  }
+
+  .age-defying {
+    font-size: 28px;
+  }
+
+  .breathtaking-part h2 {
+    font-size: 26px;
+  }
+
+  .breathtaking h3 {
+    font-size: 22px;
+  }
+
+  .skin-type h2 {
+    font-size: 24px;
+  }
+
+  .skin-type-part h3 {
+    font-size: 22px;
+  }
+
+  .benefits-tab h2 {
+    padding-bottom: 20px;
+  }
+
+  .benefit-left h4,
+  .benefit-left p {
+    font-size: 22px;
+  }
+
+  .product-aboutdetail .product-details-main {
+    padding: 30px 0 30px 30px;
+  }
+
+  .breathtaking-part p {
+    font-size: 20px;
+  }
+
+  .research-detail-main p:nth-child(1) {
+    font-size: 24px;
+    line-height: 1.4;
+  }
+
+  .serum-detail p {
+    max-width: 252px;
+  }
+
+  .serum-img {
+    right: -77px;
+  }
+
+  /* Product detail end */
+
+  /* vsl-lander-2 start */
+  .vsl-lander-footer-sec .vsl-lander-mob {
+    margin-bottom: 40px;
+  }
+
+  /* vsl-lander-2 end */
+}
+
+@media (min-width: 768px) {
+
+  /* Product detail start */
+  .product-aboutdetail .use-step {
+    padding: 7px 2px;
+    max-width: 110px;
+  }
+
+  /* Product detail end */
+}
+
+/* email section start */
+.contact-dtls>li {
+  margin-bottom: 12px;
+}
+
+/* email section end */
+@media (max-width: 1023px) {
+  .hero_btn a {
+    font-size: 30px;
+  }
+}
+
+/* ==========---------- vsl lander 2 page css start ----------========== */
+
+/* ==========---------- vsl lander 2 page css close ----------========== */
+@media (max-width: 575px) {
+  .view_sec img {
+    width: 20px;
+  }
+
+  .view_sec h4 {
+    font-size: 18px;
+  }
+
+  .round_img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .round_img_info {
+    flex-direction: column;
+  }
+
+  .round_cliant_contant {
+    max-width: 232px;
+  }
+
+  .round_contant p {
+    font-size: 18px;
+    text-align: center;
+    padding-left: 0;
+  }
+
+  .round_cliant_contant {
+    margin: 38px 0px 0px 0px;
+    text-align: center;
+  }
+
+  .round_cliant_contant h4 {
+    font-size: 18px;
+  }
+
+  .hero_img .video_sec iframe {
+    height: 300px;
+  }
+
+  .seratopical-revolution-left {
+    order: 1;
+  }
+
+  .seratopical-revolution-sec .seratopical-revolution-con h2 {
+    font-size: 30px;
+  }
+
+  .sera-lab-main .sera-lab-left {
+    max-width: 444px;
+  }
+
+  
+}
+
+@media (max-width: 395px) {
+  .hero_btn a {
+    font-size: 28px;
+  }
+
+  .round_cliant_contant {
+    max-width: 230px;
+    text-align: center;
+  }
+
+  .view_sec img {
+    width: 20px;
+  }
+
+  .view_sec h4 {
+    font-size: 16px;
+  }
+
+  .round_contant p {
+    font-size: 18px;
+  }
+
+  .hero_img .video_sec iframe {
+    height: 295px;
+  }
+
+  /* ==========---------- downsell page Responsive css start ----------========== */
+
+  .spacial-order-main-info {
+    gap: 0px;
+  }
+
+  .our-promise-sec .our-promise-contact li {
+    margin-right: 0px;
+  }
+
+  .spacial-line {
+    padding-left: 30px;
+  }
+
+  .spacial-order-info-left {
+    margin-right: 11px;
+  }
+
+  .spacial-order-sec .spacial-order-info-left .spacial-order-info-con {
+    width: 100%;
+  }
+
+  .spacial-order-sec .spacial-order-info-left .spacial-order-info-con p {
+    font-size: 16px;
+  }
+
+  /* ==========---------- downsell page Responsive css close----------========== */
+
+  /* nighttime page start */
+  .video-desc-sec .about-video-sec .discount-coupen p {
+    font-size: 15px;
+  }
+
+  /* nighttime page end */
+  /* nighttime-2 sec- start */
+  .nicole-kidman-sec .nivole-kidman-main-contant {
+    padding: 0px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-main-text {
+    font-size: 30px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-sub-text {
+    font-size: 18px;
+    margin-top: 12px;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-img img {
+    max-width: 358px;
+    width: 100%;
+    height: auto;
+  }
+
+  .nicole-kidman-sec .nicole-kidman-paragraph-con p {
+    font-size: 18px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-contant p {
+    font-size: 16px;
+  }
+
+  .powerful-ingredients-main-sec {
+    margin-top: 40px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-round-info {
+    padding: 0px;
+  }
+
+  .seratopical-revolution-sec .seratopical-revolution-con h2 {
+    font-size: 30px;
+    color: #13a89e;
+    line-height: 1.5;
+  }
+
+  @media (max-width: 395px) {
+    .nicole-kidman-sec {
+      background: #f7f7f7;
+    }
+
+    .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-main-text {
+      line-height: 44px;
+    }
+
+    .nicole-kidman-sec .nicole-kidman-sec-contant .nicole-sub-text {
+      line-height: 26px;
+      font-size: 16px;
+    }
+
+    .nicole-kidman-sec .nicole-kidman-paragraph-con p {
+      font-size: 16px;
+    }
+    .typeTxt {
+      font-size: 0.7rem;
+    }
+    .cancel_text {
+      padding-right: 0px !important;
+      right: -30px !IMPORTANT;
+  }
+
+  }
+
+  /* nighttime-2 sec- end */
+}
+
+@media (max-width: 360px) {
+  .seratopical-revolution-sec .seratopical-revolution-con h2 {
+    font-size: 25px;
+  }
+
+  .nighttime-main-sec .banner-sec {
+    padding: 12px 0 90px 0;
+  }
+
+  .main-banner-sec .row.banner-sec {
+    padding: 12px 0 100px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-link li {
+    font-size: 12px;
+  }
+  .product-price-box img{
+    margin-left: 0 !important;
+  }
+  .order-check p {
+    line-height: 18px;
+    font-size: 14px;
+  }
+
+  .video-btn img {
+    width: 112px;
+  }
+
+  a.offer-btn {
+    padding: 15px;
+    margin-top: 30px;
+    font-size: 15px;
+  }
+
+  .video-desc-sec p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 15px;
+  }
+
+  .crack-hell-info {
+    padding: 30px 16px 30px 16px;
+  }
+
+  .crack-hell-detls p,
+  .no-way-sec p {
+    font-size: 16px;
+  }
+
+  .discount-text {
+    margin-bottom: 35px;
+    padding: 15px 15px;
+  }
+
+  .about-sec iframe {
+    height: 300px;
+  }
+
+  .product-price .add-order {
+    font-size: 22px;
+    padding: 15px 20px 15px 20px;
+  }
+
+  .item-logo {
+    margin-left: -5px;
+    margin-right: 0;
+  }
+
+  a.offer-link {
+    font-size: 16px;
+    margin-top: 35px;
+  }
+
+  .about-sec button.btn-close {
+    left: 50%;
+    font-size: 12px;
+  }
+
+  /* nighttime page start */
+  .main-banner-sec .row.banner-sec {
+    padding: 12px 0 120px 0;
+  }
+
+  .banner-sec .col-5 {
+    width: 33%;
+  }
+
+  .banner-sec .col-7 {
+    width: 66%;
+  }
+
+  .main-banner-sec .banner-sec .banner-title {
+    font-size: 18px;
+    text-align: right;
+    line-height: 1.2;
+  }
+
+  .main-banner-sec .banner-sec .banner-title br {
+    display: none;
+  }
+
+  .video-sec-box a.offer-btn-two {
+    padding: 18px 24px;
+    font-size: 18px;
+  }
+
+  .discount-coupen {
+    display: block;
+  }
+
+  .video-sec-box .discount-coupen {
+    font-size: 14px;
+  }
+
+  /* nighttime page end */
+}
+
+@media (max-width: 639px) {
+
+  /* nighttime page start */
+  .makeup-slider {
+    max-width: 357px;
+  }
+
+  /* nighttime page end */
+}
+
+@media (max-width: 375px) {
+  .product-price h2 {
+    font-size: 65px;
+  }
+
+  .offers-details .save-offer {
+    margin-bottom: 20px;
+    margin-top: 12px;
+  }
+
+  .discount-text {
+    margin-bottom: 30px;
+    padding: 15px 15px;
+  }
+
+  .product-price .add-order {
+    font-size: 18px;
+    padding: 10px 10px 10px 10px;
+  }
+
+  .product-desc {
+    padding: 20px 21px 30px 20px;
+  }
+
+  .rightside-textdetails {
+    margin-left: 0px;
+    padding: 0px 0 0px 10px;
+    max-width: 87%;
+  }
+
+  .iab-univercity {
+    display: block;
+    margin-bottom: 30px;
+  }
+
+  .iab-univercity a:nth-child(1) {
+    margin-bottom: 20px;
+    display: block;
+  }
+
+  .video-sec-box .discount-coupen p span {
+    padding: 4px 4px;
+  }
+
+  .video-sec-box .discount-coupen {
+    font-size: 12px;
+  }
+
+  .dna_complex_sec .dna_complex_img h3, .dna_complex_con span, .dna_sub_contant strong, .dna_sub_contant span {
+    font-size: 16px;
+  }
+
+
+
+}
+
+/* ==========---------- downsell page Responsive css start ----------========== */
+@media (max-width: 348px) {
+  .spacial-order-sec .spacial-order-info-left .spacial-order-info-con p {
+    font-size: 13px;
+  }
+
+  .spacial-order-info-left {
+    margin-right: 5px;
+  }
+
+  /* .spacial-order-sec .spacial-order-info-left {
+    width: 50%;
+  } */
+
+  .our-promise-sec .our-promise-contact li a {
+    font-size: 15px;
+  }
+
+  .customer-footer .customer-bg-footer {
+    margin-top: 25px;
+  }
+}
+
+/* ==========---------- downsell page Responsive css close ----------========== */
+@media (min-width: 1400px) and (max-width: 1660px) {
+  section.lab-promise .bothside-labpart .businessman-img {
+    display: flex;
+    align-items: end;
+  }
+
+  section.lab-promise .bothside-labpart .businessman-img img {
+    margin-left: 0%;
+    height: 87% !important;
+    width: 96% !important;
+  }
+
+  .right-side-box {
+    max-width: 856px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+  section.lab-promise .bothside-labpart .businessman-img {
+    display: flex;
+    align-items: end;
+  }
+
+  section.lab-promise .bothside-labpart .businessman-img img {
+    margin-left: 0%;
+    height: 81% !important;
+    width: 86% !important;
+  }
+
+  .right-side-box {
+    width: 1520px;
+    max-width: 100%;
+  }
+
+  .rightside-textdetails p {
+    font-size: 18px;
+    margin-bottom: 17px;
+  }
+
+  .rightside-textdetails {
+    max-width: 435px;
+    padding: 27px 0 50px 13px;
+  }
+
+  .iab-univercity img {
+    width: 100%;
+  }
+
+  .iab-univercity img:nth-child(1) {
+    margin-right: 0px;
+  }
+
+  .iab-univercity a:nth-child(1) {
+    margin-right: 21px;
+  }
+}
+
+/*----------------------------------- nighttime page slider start -----------------------------------------------*/
+@media (max-width: 1700px) {
+  .product-review-sec .review-product button.slick-prev.slick-arrow {
+    left: -1%;
+    z-index: 2;
+  }
+
+  .product-review-sec .review-product button.slick-next.slick-arrow {
+    left: auto;
+    right: 1%;
+    z-index: 2;
+  }
+}
+
+@media (max-width: 1440px) {
+  .product-review-sec .product-review-box .rating-sec>ul>li i {
+    font-size: 20px;
+    margin: 0px 2px;
+  }
+
+  .product-review-sec .review-product button.slick-next.slick-arrow,
+  .product-review-sec .review-product button.slick-prev.slick-arrow {
+    position: absolute;
+    top: 30%;
+    z-index: 1;
+  }
+}
+
+@media (min-width: 1400px) and (max-width: 1660px) {
+  .lab-promise .businessman-image img {
+    object-fit: cover;
+    margin-left: 3%;
+    height: 88% !important;
+    width: 94% !important;
+  }
+
+  .businessman-image {
+    display: flex;
+    align-items: end;
+  }
+}
+
+@media (max-width: 1400px) {
+  .product-review-sec .product-review-box .rating-sec>ul>li i {
+    font-size: 18px;
+    margin: 0px 2px;
+  }
+
+  .video-sec-box a.offer-btn-two {
+    padding: 23px 58px;
+    font-size: 30px;
+  }
+
+  .price-relative {
+    align-items: center;
+  }
+
+  .bottle-5::before {
+    display: block;
+  }
+
+  .product-price-box .bottle-1 {
+    width: 36%;
+    display: flex;  
+  }
+}
+
+@media (min-width: 1400px) {
+  .product-review-sec.container {
+    max-width: 1538px;
+  }
+
+}
+
+@media (max-width: 1399px) {
+  .product-review-sec.container {
+    max-width: 100%;
+    padding: auto 20px;
+  }
+
+  .bottle-5::before {
+    display: block;
+  }
+
+  .product-review-sec .review-product button.slick-next.slick-arrow {
+    right: 2%;
+  }
+
+  .video-sec-box .about-arrow {
+    right: -50px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .product-review-sec .product-review-title h2 {
+    margin-bottom: 45px;
+  }
+
+  .product-review-sec.container {
+    width: 100%;
+  }
+
+  .product-review-sec .product-review-box>p {
+    font-size: 20px;
+  }
+
+  .product-review-sec .product-review-box>h4 {
+    font-size: 28px;
+  }
+
+  .video-sec-box a.offer-btn-two {
+    padding: 23px 58px;
+    font-size: 28px;
+  }
+
+  .product-review-sec {
+    margin: auto;
+    padding: 90px 16px 90px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .businessman-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .lab-promise .businessman-image img {
+    width: 56% !important;
+    margin: 0 auto;
+  }
+
+  .video-sec-box .about-arrow {
+    right: -98px;
+  }
+
+  .blueprint-fix h2 {
+    font-size: 48px;
+  }
+
+  .new-prise-box.active {
+    height: auto;
+}
+.new-prise-box.active .best-value {
+  opacity: 1;
+  transform: translateY(10px);
+}
+
+}
+
+@media (max-width: 1024px) {
+  .product-review-sec {
+    padding: 90px 16px 100px;
+  }
+}
+
+@media (max-width: 991px) {
+  .mobile-show-lgm {
+    display: block !important;
+  }
+  .product-customer{
+    display: none;
+      }
+      .product-image img{
+        width: 100%;
+        max-width: 100%;
+        padding: 10px;
+      }
+   
+  .product-review-sec .review-product button.slick-next.slick-arrow {
+    left: auto;
+    right: 3%;
+    z-index: 2;
+  }
+
+  .three-bottles-content img {
+    display: block;
+    margin: 18px auto;
+  }
+
+  .video-sec-box a.offer-btn-two {
+    padding: 23px 58px;
+    font-size: 26px;
+  }
+
+  .product-review-sec .review-product button.slick-next.slick-arrow::before,
+  .product-review-sec .review-product button.slick-prev.slick-arrow::before {
+    width: 30px;
+    height: 55px;
+  }
+
+  .about-sec .modal .modal-dialog {
+    width: 80%;
+  }
+
+  .blueprint-fix h2 {
+    font-size: 40px;
+  }
+  .revolution-sec {
+    margin-top: 70px;
+}
+.new-prise-box-wrapper .new-prise-box{
+  max-width: 468px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.new-prise-box.active {
+  height: auto;
+}
+.new-prise-box.active  .best-value{
+  transform: translateY(14px);
+}
+.cancel_text {
+  padding-right: 14px !important;
+  flex-basis: 100% !important ;
+}
+.txtDesk p.typeTxt.ssText {
+  margin-top: -29px;
+  position: relative;
+  right: -90px;
+}
+.switch-fixed {
+  flex-wrap: wrap;
+  margin-left: 0px;
+  justify-content: center;
+}
+
+}
+
+@media (max-width: 480px) {
+  .product-review-sec {
+    padding: 60px 15px 50px;
+  }
+
+  .product-review-sec .review-product button.slick-prev.slick-arrow {
+    left: -4%;
+    z-index: 2;
+  }
+
+  .product-review-sec .review-product button.slick-next.slick-arrow {
+    left: auto;
+    right: 4%;
+    z-index: 2;
+  }
+
+  .product-review-sec .product-review-box {
+    padding: 20px;
+  }
+
+  .discount-coupen img {
+    width: 20%;
+  }
+
+  .lab-promise .businessman-image img {
+    width: 90% !important;
+  }
+
+  /* night-time-2 start */
+  .makeup-slider button.slick-arrow::before {
+    left: 10px;
+    width: 13px;
+    height: 24px;
+  }
+
+  .sustained-result-main .result-slider {
+    max-width: 95%;
+  }
+
+  .makeup-slider button.slick-prev.slick-arrow::before {
+    left: -5px;
+    width: 13px;
+    height: 24px;
+  }
+
+  .makeup-slider button.slick-arrow {
+    z-index: 99;
+  }
+
+  /* night-time-2 end */
+}
+
+@media (max-width: 375px) {
+  .video-sec-box a.offer-btn-two {
+    padding: 22px 22px;
+    font-size: 18px;
+  }
+
+  .lab-promise .businessman-image img {
+    width: 100% !important;
+  }
+}
+
+/*------------------------------------- nighttime page slider end -------------------------------*/
+/* ------------------------------------ thankyou page start ------------------------------------------------- */
+@media (max-width: 1399px) {
+  .order-detls-box>p {
+    width: 55%;
+  }
+}
+
+@media (max-width: 1200px) {
+  .order-detls-box>p {
+    width: 49%;
+    font-size: 22px;
+  }
+
+  .order-detls-box>h2 {
+    font-size: 36px;
+  }
+
+  .order-recipt p,
+  .order-item p {
+    font-size: 22px;
+  }
+
+  .order-recipt-two .order-box>.order-item .total-prc {
+    font-size: 28px;
+  }
+
+  .order-recipt-sec {
+    padding: 40px 40px 20px;
+  }
+
+  .shipping-info>h3 {
+    margin-bottom: 26px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .order-detls-box>p {
+    width: 60%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .order-detls-box>p {
+    width: 58%;
+    font-size: 22px;
+  }
+
+  .dna-product-img img {
+    height: 500px;
+  }
+}
+
+@media (max-width: 991px) {
+
+  .order-recipt p,
+  .order-item p {
+    font-size: 20px;
+  }
+
+  .wrapper-link {
+    padding-top: 25px;
+  }
+
+  .order-detls-box p {
+    width: 80%;
+    font-size: 22px;
+  }
+
+  .order-recipt h3 {
+    font-size: 26px;
+  }
+
+  .order-recipt-two h3 {
+    font-size: 22px;
+    padding: 20px 0;
+  }
+
+  .order-recipt-two .order-box>.order-item .total-prc {
+    font-size: 24px;
+  }
+
+  .shipping-section {
+    padding: 24px 30px 70px;
+  }
+
+  .order-recipt-sec {
+    padding: 40px 30px 20px;
+  }
+
+  .order-recipt-two .order-box>.order-item {
+    padding: 12px;
+  }
+
+  .shipping-info h3 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .video-sec-box {
+    padding: 29px 16px;
+  }
+
+  .order-detls-box>p {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .order-detls-box>h2 {
+    font-size: 24px;
+  }
+
+  .order-recipt {
+    width: 100%;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #d5d5d5;
+  }
+
+  .order-recipt-sec {
+    padding: 16px 23px 18px 23px;
+  }
+
+  .order-detls-box {
+    padding: 17px 23px 12px;
+  }
+
+  .order-detls-box p {
+    margin-top: 4px;
+  }
+
+  .shipping-section {
+    padding: 0px 23px 27px;
+  }
+
+  .order-recipt-box {
+    padding: 0;
+  }
+
+  .order-recipt-two .order-box>.order-item .total-prc {
+    font-size: 20px;
+  }
+
+  .sub-title,
+  .order-recipt-two h3,
+  .shipping-info>h3 {
+    font-size: 20px;
+    padding: 18px 0 9px;
+  }
+
+  .mob-order-dtls-box .row.order-recipt {
+    display: flex;
+    align-items: center;
+  }
+
+  .order-recipt p,
+  .order-item p {
+    font-size: 16px;
+  }
+
+  .customer-contact p {
+    font-size: 16px;
+    line-height: 19px;
+    white-space: nowrap;
+  }
+
+  .shipping-info h3 {
+    margin-bottom: 13px;
+  }
+
+  .shipping-menu li {
+    line-height: 2;
+  }
+
+  .seratopical-logo img {
+    max-width: 137px;
+  }
+
+  .mob-product-img img {
+    max-width: 40px;
+    width: 100%;
+  }
+
+  .order-recipt h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    padding: 0;
+  }
+
+  .order-footer-main {
+    margin-top: 17px;
+  }
+
+  .wrapper-link {
+    padding-top: 0px;
+  }
+
+  .footer-detail p {
+    padding: 35px 37px 59px;
+  }
+
+  .copyright-main {
+    padding: 27px 16px 20px;
+  }
+}
+
+/* ------------------------------------ thankyou page start ------------------------------------------------- */
+
+
+/* ----------========downsell page css start-----------============ */
+
+@media (max-width: 1399px) {
+  .spacial-order-sec .spacial-order-btn a {
+    font-size: 27px;
+  }
+
+  .cong-sec .order-button {
+    font-size: 28px;
+  }
+
+  .offer-price-sec>p {
+    font-size: 28px;
+  }
+
+  .offer-price-sec>p::before {
+    border-top: 30px solid transparent;
+    border-left: 18px solid white;
+    border-bottom: 30px solid transparent;
+  }
+
+  .offer-price-sec>p::after {
+    border-top: 30px solid transparent;
+    border-right: 18px solid white;
+    border-bottom: 30px solid transparent;
+  }
+
+  .offer-price-sec {
+    padding: 15px;
+  }
+
+  /* ==========---------- Downsell page css start  ----------========== */
+  .downsell-hero-left>h3 {
+    font-size: 32px;
+    font-size: 32px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  .downsell-hero-left h4 {
+    font-size: 28px;
+    padding-bottom: 12px;
+  }
+
+  .downsell-hero-left>h2 {
+    font-size: 36px;
+    padding: 8px 0 8px 12px;
+  }
+
+  .downsell-hero-left h2::after {
+    width: 42px;
+    height: 42px;
+  }
+
+  .downsell-hero-left h5 {
+    font-size: 28px;
+  }
+
+  .offer-time-price h3 {
+    font-size: 62px;
+  }
+
+  .retail-price {
+    padding-right: 15px;
+  }
+
+  .downsell-hero-left .cong-sec .order-button {
+    font-size: 28px;
+  }
+
+  .downsell-hero-right .cream-box-image {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+
+  .downsell-hero-right .cream-box-image {
+    max-width: 70%;
+    margin: 0 auto;
+  }
+
+  .downsell-hero-right .cream-box-image img {
+    width: 100%;
+  }
+
+  .downsell-hero-left>h3 img {
+    width: 100%;
+    max-width: 75px;
+    right: -45px;
+  }
+
+  /* ==========---------- ----------========== */
+  .our-promise-sec .our-promise-contact li a,
+  .customer-footer .customer-icon-footer li a {
+    font-size: 20px;
+  }
+
+  .customer-footer .customer-icon-footer li {
+    padding-right: 25px;
+  }
+
+  .spacial-order-sec {
+    padding: 56px 25px 35px 40px;
+  }
+
+  .spacial-order-main-right h2 {
+    font-size: 25px;
+  }
+
+  .spacial-order-main-right p,
+  .spacial-order-main-right .spacial-order-right-info-con h4 {
+    font-size: 22px;
+  }
+
+  /* ==========---------- ----------========== */
+
+}
+
+@media (max-width: 1299px) {
+  .offer-time-price h3 {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .beauty-peragraph-sec {
+    padding: 50px 0px 0px 0px;
+  }
+
+  .davidson-main .robd-details {
+    width: 70%;
+  }
+
+  .davidson-main .robd-img {
+    width: 30%;
+  }
+
+  .davidson-main .robd-details p {
+    padding-right: 45px;
+  }
+
+  .davidson-main .robd-img img {
+    height: auto;
+  }
+
+  .list-product-cat .accordion-button {
+    font-size: 24px;
+  }
+
+  .cong-sec>p {
+    font-size: 20px;
+  }
+
+  .cong-sec p.prgph-one {
+    margin-bottom: 30px;
+  }
+
+  .list-product-nav>a {
+    padding: 18px;
+    font-size: 28px;
+  }
+
+  .list-product-nav>a i::before {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+  }
+
+  .cong-sec .list-product-nav .list-product-subnav p {
+    font-size: 20px;
+    padding: 0 20px 20px;
+  }
+
+  .cong-sec .order-button {
+    font-size: 21px;
+    padding: 10px;
+    margin: 0 auto 10px;
+  }
+
+  .cong-sec>h3 {
+    margin-bottom: 15px;
+    font-size: 32px;
+  }
+
+  .cream-box-testing {
+    padding: 48px 42px 50px 45px !important;
+  }
+
+  .downsell-hero-left {
+    width: 65%;
+    padding: 30px 16px 49px 18px;
+  }
+
+  .downsell-hero-right {
+    width: 35%;
+  }
+
+  .downsell-hero-left .cong-sec .order-button {
+    font-size: 26px;
+  }
+
+  .offer-time-main {
+    margin-bottom: 40px;
+    justify-content: center;
+  }
+
+  .you-save-price>p::after {
+    border-top: 21px solid transparent;
+    border-right: 18px solid #f7f7f7;
+    border-bottom: 21px solid transparent;
+  }
+
+  .spacial-order-left img {
+    max-width: 300px;
+    width: 100%;
+  }
+
+  .spacial-order-sec .main-spacial-order {
+    max-width: 367px;
+    width: 100%;
+  }
+
+  .our-promise-sec .our-promise-contact {
+    flex-wrap: wrap;
+  }
+
+  .customer-footer .customer-icon-footer li {
+    padding-right: 19px;
+  }
+
+  .spacial-order-sec .spacial-order-info-left .spacial-order-info-con {
+    max-width: 195px;
+    width: 100%;
+    margin: 15px 0px 0px 5px;
+  }
+
+  .spacial-order-main-right h2 {
+    font-size: 27px;
+  }
+
+  .spacial-order-sec .spacial-order-btn a {
+    font-size: 21px;
+  }
+
+  .our-promise-sec .our-promise-contact li {
+    margin-top: 17px;
+  }
+
+  .spacial-order-main-right p,
+  .spacial-order-main-right .spacial-order-right-info-con h4 {
+    font-size: 19px;
+  }
+
+  .spacial-order-sec .spacial-order-info-left .spacial-order-info-con p {
+    font-size: 18px;
+  }
+
+  .spacial-order-main-right {
+    padding: 0 20px;
+  }
+
+  .spacial-order-sec {
+    gap: 16px;
+  }
+
+  .spacial-order-sec {
+    align-items: center;
+  }
+
+  .our-promise-sec-img img {
+    margin-top: 63px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .customer-footer .customer-icon-footer li {
+    padding-right: 18px;
+  }
+
+  .customer-footer .customer-bg-footer p {
+    font-size: 21px;
+  }
+
+  .our-promise-sec-img img {
+    width: 100%;
+    margin-top: 80px;
+  }
+
+  .our-promise-sec .our-promise-main-con .our-regular-text {
+    margin-top: 22px;
+    margin-bottom: 20px;
+  }
+
+  .our-promise-sec .our-promise-info {
+    gap: 40px;
+  }
+
+  .our-promise-sec .our-promise-main-con {
+    max-width: 593px;
+  }
+
+  .our-promise-sec-img img {
+    margin-top: 63px;
+  }
+}
+
+@media (max-width: 991px) {
+  .gif-slider {
+    height: 380px;
+  }
+
+  .beauty-peragraph-main .middle-disk-content {
+    height: auto !important;
+    padding: 0;
+  }
+
+  .beauty-peragraph-main .middle-disk-content .beauty-expert-contant {
+    position: initial;
+    transform: none;
+  }
+
+  .mockup-slide-nav {
+    padding-top: 0 !important;
+  }
+
+  .attention_box h5 {
+    font-size: 18px;
+  }
+
+  .cong-sec h3 {
+    margin-bottom: 18px;
+    font-size: 32px;
+    text-align: center;
+    padding: 0 0 12px;
+    margin-top: 30px;
+  }
+
+  .list-product-nav>a {
+    padding: 18px 20px;
+    font-size: 28px;
+  }
+
+  .downsell-hero-left {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .downsell-hero-right {
+    display: none;
+  }
+
+  .bottles-too-much h1 {
+    font-size: 30px;
+  }
+
+  .downsell-hero-left>h3 img,
+  .downsell-hero-left h2::after {
+    display: none;
+  }
+
+  .downsell-hero-left h2 {
+    width: 100%;
+  }
+
+  .spacial-cream-main img {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 320px;
+    display: block;
+    padding: 32px 0 20px;
+  }
+
+  .customer-icon-footer,
+  .our-promise-contact,
+  .spacial-order-sec {
+    flex-direction: column;
+  }
+
+  .customer-icon-footer li {
+    padding: 10px 0;
+  }
+
+  .our-promise-sec .our-promise-main-con {
+    max-width: 363px;
+    width: 100%;
+  }
+
+  .our-promise-main-con p,
+  .our-promise-sec .our-promise-contact li a {
+    font-size: 16px;
+  }
+
+  .spacial-order-sec .spacial-order-info-left .spacial-order-info-con p {
+    font-size: 16px;
+  }
+
+  /* .our-promise-sec .our-promise-contact li a {
+    white-space: nowrap;
+  } */
+  .spacial-order-left {
+    margin-top: 30px;
+  }
+
+  .spacial-order-info-left {
+    margin-right: 12px;
+  }
+
+  .spacial-line {
+    border-left: 2px solid #ffffff;
+    padding-left: 16px;
+  }
+
+  .main-spacial-order .spacial-nain-con h2,
+  .main-spacial-order .spacial-nain-con p {
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 1.5;
+  }
+
+  .spacial-order-sec {
+    padding: 30px 0 !important;
+  }
+
+  .spacial-order-sec .spacial-order-btn a {
+    font-size: 23px;
+  }
+
+  .main-spacial-order,
+  .spacial-order-right-info-con {
+    text-align: center;
+  }
+
+  .main-spacial-order .spacial-nain-con h2 span {
+    color: #fefe00;
+  }
+
+  .our-promise-contact li {
+    margin: 10px 0;
+  }
+
+  .customer-footer .customer-bg-footer {
+    padding: 26px 15px;
+  }
+
+  .our-promise-sec .our-promise-info {
+    gap: 47px;
+  }
+
+  .spacial-nain-con {
+    display: none;
+  }
+
+  .main-spacial-order .spacial-nain-con {
+    display: block;
+  }
+
+  .our-promise-main-con h3 {
+    text-align: center;
+  }
+
+  .our-promise-sec .our-promise-main-con h3 {
+    font-size: 24px;
+  }
+
+  .our-promise-bg {
+    padding: 20px 0px 52px 0px;
+  }
+
+  .our-promise-sec .our-promise-main-con h3 {
+    padding-bottom: 17px;
+    margin-bottom: 17px;
+  }
+
+  .main-spacial-order .spacial-nain-con h2,
+  .main-spacial-order .spacial-nain-con p {
+    margin-top: 10px;
+  }
+
+  .our-promise-sec .our-promise-main-con h3 {
+    text-align: start;
+  }
+
+  .our-promise-sec-img img {
+    margin-top: 43px;
+  }
+
+  .Congratulations-bothside {
+    gap: 32px;
+  }
+
+  .special-bonus-left {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+
+  .image-slider .slick-prev,
+  .customer-testimonials .slick-prev {
+    left: -12px;
+  }
+
+  .image-slider .slick-next,
+  .customer-testimonials .slick-next {
+    right: -12px;
+  }
+
+  h2.transformations {
+    font-size: 35px;
+  }
+
+  .beauty-peragraph-main .middle-disk-content {
+    margin: 10px 0px;
+  }
+
+  footer.index-two-footer ul.customer-icon-footer {
+    display: block;
+  }
+
+  footer.index-two-footer ul.customer-icon-footer li a {
+    font-size: 14px;
+  }
+
+  body .middle-disk-content {
+    height: auto !important;
+    padding: 40px 0px;
+  }
+
+  body .middle-disk-content .beauty-expert-contant {
+    position: inherit;
+    transform: none;
+  }
+
+  .beauty-peragraph-sec {
+    padding: 30px 0px 0px 0px;
+  }
+
+  .mockup-slide-nav,
+  .mockup-slide-show {
+    /* display: none;  */
+  }
+
+  .davidson-main {
+    display: grid;
+    margin-bottom: 0px;
+  }
+
+  .beauty-peragraph-main .beauty-expert-peragraph-con p {
+    margin-bottom: 20px !important;
+  }
+
+  .davidson-main .robd-details {
+    width: 100%;
+    order: 2;
+    margin-bottom: 0px;
+  }
+
+  .davidson-main .robd-img {
+    width: 100%;
+    order: 1;
+    margin-bottom: 20px;
+  }
+
+  .davidson-main .robd-details p {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-con .night-routine-mob-device.d-md-none p.night-routine-round {
+    width: 28px;
+    height: 28px;
+    background-color: #13a89e;
+    color: #ffffff;
+    left: 0;
+    border-radius: 50px;
+    text-align: center;
+    margin-right: 13px;
+    font-family: AvertaStd-Bold;
+    font-size: 19px;
+    line-height: 28px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-con .night-routine-mob-device.d-md-none .night-routine-main-round {
+    margin-bottom: 0;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-con .night-routine-moisturizer-contant .night-routine-main-round {
+    display: none !important;
+  }
+
+  .attention_box h5 {
+    font-size: 17px;
+  }
+
+  .offers-details {
+    margin: 21px auto 40px;
+  }
+
+  body .order-check {
+    margin: 25px auto 20px !important;
+  }
+
+  .powerful-ingredients-main-sec .powerful-ingredients-sec p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .powerful-ingredients-main-sec .powerful-ingredients-sec p:nth-child(1),
+  .powerful-ingredients-main-sec .powerful-ingredients-sec p:nth-child(2) {
+    margin-bottom: 9px;
+  }
+
+  .night-routine-moisturizer-con .night-routine-main-round {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .night-routine-main-round h3 {
+    font-size: 19px;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-contant p {
+    text-align: center;
+  }
+
+  .powerful-ingredients-main-sec .night-routine-moisturizer-con {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .night-routine-moisturizer-img {
+    text-align: center;
+  }
+
+  body .sera-lab-main .researcher-img {
+    max-width: 296px !important;
+    right: -80px !important;
+  }
+
+  .bottles-too-much h1 {
+    font-size: 25px;
+    max-width: 257px;
+    margin: auto;
+  }
+
+  .downsell-page .header-wrapper {
+    padding: 9px 0 3px;
+  }
+
+  .product-offer {
+    margin-top: 35px;
+  }
+
+  .cong-sec .link-sec {
+    font-size: 14px;
+    margin: 0 auto;
+  }
+
+  .list-product-nav>a {
+    font-size: 20px;
+  }
+
+  .list-product-nav>a i::before {
+    position: absolute;
+    top: 22px;
+    right: 25px;
+  }
+
+  .cong-sec .list-product-nav .list-product-subnav p {
+    font-size: 16px;
+    padding: 14px 21px 23px 17px;
+    border-top: 1px solid #d4d4d4;
+  }
+
+  .cong-sec>h3 {
+    font-size: 24px;
+  }
+
+  .cong-sec>p {
+    font-size: 16px;
+  }
+
+  .product-offer>h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  .offer-price-sec .row .col-6>p {
+    font-size: 24px;
+  }
+
+  .cong-sec .order-button {
+    font-size: 18px;
+    padding: 17px 10px;
+    margin: 0 auto 10px;
+  }
+
+  .offer-price-sec {
+    margin: 10px 20px 0;
+  }
+
+  .cong-sec .list-product-nav {
+    margin: 10px 0;
+  }
+
+  .customer-footer .services-logo img {
+    max-width: 174px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .offer-price-text {
+    border-right: 0;
+  }
+
+  /* ==========---------- downsell page Responsive css start ----------========== */
+  .our-promise-info {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .our-promise-sec .our-promise-main-con h3 {
+    text-align: center;
+  }
+
+  .our-promise-sec .our-promise-main-con p {
+    margin-top: 23px;
+  }
+
+  .customer-services-footer {
+    padding-left: 0;
+  }
+
+  .customer-footer .customer-bg-footer p {
+    font-size: 16px;
+  }
+
+  .spacial-order-main-right .spacial-nain-con {
+    display: none;
+  }
+
+  .our-promise-sec .our-promise-sec-mob img {
+    display: block;
+  }
+
+  .our-promise-bg {
+    padding: 30px 0px 0px 0px;
+  }
+
+  .our-promise-sec-img img {
+    display: none;
+  }
+
+  .customer-footer .customer-bg-footer {
+    padding: 35px 36px 59px 38px;
+  }
+
+  .our-promise-sec .our-promise-info {
+    gap: 0px;
+  }
+
+  .our-promise-sec-mob img {
+    width: 100%;
+  }
+
+  .customer-footer .services-logo {
+    border: none;
+    margin-top: 11px;
+  }
+
+  .customer-footer .services-logo img {
+    margin-top: 0px;
+  }
+
+  .customer-footer .customer-icon-footer {
+    display: none;
+  }
+
+  .customer-footer .customer-bg-footer {
+    margin-top: 28px;
+  }
+
+  .downsell-page .offer-title {
+    font-size: 14px;
+  }
+
+  .downsell-page .header-wrapper-inner h3 {
+    font-size: 20px;
+  }
+
+  .downsell-page .header-wrapper-inner p {
+    font-size: 16px;
+  }
+
+  .downsell-page .page-logo {
+    max-width: 137px;
+  }
+
+  .downsell-hero-top {
+    padding: 19px 0 376px;
+  }
+
+  .downsell-hero-left h4 {
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .downsell-hero-left>h3 {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .downsell-hero-left .benefits-list li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  /* .downsell-hero-left .benefits-list{
+  padding-bottom: px;
+} */
+  .downsell-hero-left h5 {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .downsell-hero-left h2 {
+    font-size: 20px;
+    padding: 8px 23px;
+    margin-bottom: 0;
+  }
+
+  .you-save-price>p {
+    background-color: #13A89E;
+  }
+
+  .offer-time-main {
+    flex-wrap: wrap;
+    margin-bottom: 23px;
+  }
+
+  .offer-time-price span {
+    font-size: 18px;
+  }
+
+  .offer-time-price h3 {
+    font-size: 52px;
+  }
+
+  .Congratulations-sec {
+    padding: 55px 0 0px;
+  }
+
+  .downsell-hero-left .cong-sec .order-button {
+    font-size: 18px;
+  }
+
+  .downsell-hero-left .cong-sec .order-button {
+    padding: 16px 4px;
+  }
+
+  .downsell-hero-left {
+    padding: 14px 18px 30px;
+  }
+
+  .Congratulations-sec {
+    padding: 15px 0 0px;
+  }
+
+  .cong-sec h3 {
+    margin: 0;
+    padding: 0 0 17px;
+  }
+
+  .cong-sec p.prgph-one {
+    padding-top: 18px;
+  }
+
+  .cong-sec p.prgph-one {
+    margin-bottom: 20px;
+  }
+
+  .list-product-cat .accordion-body p {
+    font-size: 16px;
+  }
+
+  .Congratulations-bothside {
+    gap: 0;
+  }
+
+  .offer-price-sec {
+    padding: 25px 20px 27px;
+  }
+
+  .our-promise-bg {
+    margin-top: 24px;
+  }
+
+  .our-promise-sec .our-promise-main-con .our-regular-text {
+    margin-bottom: 13px;
+  }
+
+  .our-promise-sec .our-promise-main-con {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .spacial-order-sec {
+    padding: 24px 14px 28px !important;
+  }
+
+  .spacial-order-main-right {
+    padding: 0;
+  }
+
+  .customer-footer .customer-copyright-main {
+    padding: 27px 0px 16px;
+  }
+
+  /* ==========---------- downsell page Responsive css close ----------========== */
+}
+
+@media (max-width: 767px) {
+  .gif-slider {
+    height: 290px;
+  }
+
+  .revolution-wrapper {
+    position: relative;
+  }
+
+  .revolution-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px !important;
+  }
+
+  .creadite-card {
+    width: 100%;
+  }
+
+  .list-product-cat .accordion-button {
+    font-size: 16px;
+  }
+
+  .about-arrow {
+    display: none;
+  }
+
+  .mobile-ul-fixed li {
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .mobile-ul-fixed li img {
+    margin-right: 3px;
+  }
+
+  .order-discount {
+    padding: 15px 0;
+  }
+
+  .order-discount button {
+    max-width: 262px;
+    padding: 7px 10px;
+    font-size: 23px;
+  }
+
+  .order-discount button img {
+    width: 9px;
+    margin-bottom: -2px;
+  }
+
+  .launch-product .product-texts img {
+    /* display: none; */
+  }
+
+  .section-header {
+    display: none;
+  }
+
+  .checkout_btn {
+    font-size: 25px;
+    padding: 5px 0px;
+  }
+
+  .checkout_btn svg {
+    width: 11px;
+    margin-bottom: -1px;
+  }
+
+  .input_box3 {
+    margin-bottom: 0;
+  }
+
+  .payment_input_sec .icon_question img {
+    width: 16px !important;
+  }
+
+  .revolution .revolution-bg {
+    background-size: cover;
+    min-width: 100%;
+    height: 100%;
+  }
+
+  .research-detail {
+    gap: 10px;
+  }
+
+  .revolution .revolution-content h2 {
+    padding: 20px 0;
+  }
+
+  .revolution .revolution-content p {
+    font-size: 18px;
+  }
+
+  .approved-tag img {
+    max-width: 100px;
+  }
+
+  .research-detail div>h3 {
+    font-size: 18px;
+  }
+
+  .mobile-show.single-purchase-text {
+    display: flex !important;
+  }
+
+  .prod-info>li img {
+    max-width: 19px;
+    max-height: 19px;
+    object-fit: cover;
+  }
+
+  .sera-lab-left .lab-text.lab-text-p {
+    max-width: 62%;
+  }
+
+  .product-review-sec .product-review-title h2 {
+    margin-bottom: 40px;
+    font-size: 24px;
+  }
+
+  .Seratopical-mian .product-review-sec .product-review-title h2 {
+    margin-bottom: 14px;
+  }
+
+  .product-review-sec .review-product button.slick-next.slick-arrow::before,
+  .product-review-sec .review-product button.slick-prev.slick-arrow::before {
+    width: 17px;
+    height: 32px;
+  }
+
+  .product-review-sec .review-product button.slick-next.slick-arrow {
+    right: 0 !important;
+  }
+
+  .product-review-sec .product-review-box>p {
+    margin: 22px auto 15px;
+  }
+
+  .products-info-inner {
+    gap: 24px;
+  }
+
+  .products-info-inner ul li {
+    align-items: flex-start !important;
+  }
+
+  .products-info-inner ul li img {
+    padding-top: 4px;
+  }
+
+  .information-text img {
+    min-width: 34px;
+  }
+
+  .products-info .information-text {
+    margin-bottom: 32px !important;
+    align-items: center !important;
+  }
+
+  .money-back-guarantee .title {
+    font-size: 30px;
+  }
+
+  .product-review-sec {
+    padding: 60px 26px 70px;
+  }
+
+  .footer-main-two {
+    margin-top: 50px;
+  }
+
+  .vsl-lander-2-header {
+    padding-top: 0px;
+  }
+
+  .vsl-lander-2-header a img {
+    max-width: 193px;
+    width: 100%;
+  }
+
+  .beauty-expert-sec {
+    height: 300px;
+  }
+
+  .beauty-expert-sec .beauty-expert-contant h2 {
+    font-size: 24px;
+    line-height: 1.3;
+    padding: 12px 12px;
+  }
+
+  .blueprint-fix h2 {
+    font-size: 30px;
+  }
+
+  span.underline {
+    font-size: 13px;
+  }
+
+  .quite-fixed p {
+    font-size: 20px !important;
+    font-weight: 700;
+  }
+
+  .about-sec .modal .modal-dialog {
+    width: 90%;
+  }
+
+  .product-review-sec .product-review-box>h4 {
+    font-size: 26px;
+  }
+
+  .lab-promise .businessman-image img {
+    width: 80% !important;
+  }
+
+  .footer-main-logo {
+    margin-top: 30px;
+  }
+
+  .wrapper-link-two {
+    padding-top: 0px;
+  }
+
+  .makeup-slider .slick-arrow.slick-prev {
+    left: 0;
+  }
+
+  .makeup-slider .slick-arrow.slick-next {
+    right: 0;
+  }
+}
+
+@media (max-width: 574px) {
+  .gif-slider {
+    height: 240px;
+  }
+}
+
+@media (max-width: 480px) {
+  .gif-slider {
+    height: 170px;
+  }
+
+  .img-dna img {
+    width: 43%;
+  }
+  .sale-bottels p{
+    font-size: 12px;
+    padding: 0 4px;
+  }
+
+  .video-sec-box a.offer-btn-two {
+    padding: 23px 17px;
+    font-size: 19px;
+  }
+
+  .offer-price-sec>p {
+    font-size: 24px;
+  }
+
+  .cong-sec .link-sec {
+    text-align: center;
+  }
+
+  .attention_box h5 {
+    font-size: 13px;
+  }
+
+  .add-my-order {
+    padding: 27px 6px;
+    font-size: 22px;
+  }
+
+  .order-place-details a.add-order {
+    font-size: 16px;
+  }
+
+  .downsell-hero-left .cong-sec .order-button {
+    font-size: 16px;
+  }
+
+  .downsell-hero-left {
+    padding: 14PX 8px 30px;
+  }
+
+  .single-purchase-text p {
+    font-size: 12px;
+}
+
+  .single-purchase-text p {
+    padding: 12px 3px;
+  }
+  .typeTxt {
+    font-size: 0.8rem;
+    flex-basis: 100%;
+    position: relative;
+    right: -20px;
+}
+.cancel_text {
+  padding-right: 0px !important;
+  right: 0 !IMPORTANT;
+}
+.product-detail h3 {
+  font-size: 16px;
+  text-align: center;
+}
+}
+
+@media (max-width: 375px) {
+  .offer-price-sec>.row>.col-6 s, .offer-price-sec>.row>.col-6 span {
+    font-size: 32px;
+  }
+
+  .offer-price-sec .row .col-6>p {
+    font-size: 16px;
+  }
+
+  .single-purchase-text p {
+    font-size: 11px;
+  }
+
+  .single-purchase-text p {
+    padding: 12px 3px;
+  }
+  .cancel_text {
+    padding-right: 0px !important;
+    right: -24px !important;
+}
+
+.typeTxt {
+  font-size: 0.8rem;
+  flex-basis: 100% !important;
+}
+
+}
+
+@media (max-width: 398px) {
+  .img-dna img {
+    width: 60%;
+  }
+
+  .attention_box h5 {
+    font-size: 12px;
+  }
+
+  .step-sec ul>li {
+    font-size: 14px;
+  }
+
+  .sustained-result-main .video-sec-box a.offer-btn-two {
+    font-size: 18px !important;
+  }
+  .cancel_text {
+    padding-right: 0px !important;
+    right: -27px !important;
+}
+.typeTxt {
+  font-size: 0.7rem  !important;
+}
+}
+
+/* ----------========downsell page css end-----------============ */
+
+@media (min-width: 1200px) and (max-width: 1280px) {
+  body .hero-sec {
+    padding: 15px 0px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .detop-visible {
+    position: sticky;
+    bottom: 0;
+    z-index: 99;
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+  }
+}
+
+/* form page css start */
+@media screen and (max-width:1199px) {
+  .quiz-container {
+    max-width: 865px;
+  }
+}
+
+@media screen and (max-width:991px) {
+  body .sya-good-ny-text {
+    display: block !important;
+  }
+  .quiz-container {
+    max-width: 750px;
+  }
+  .product-price-box img.bottle-3{
+    max-width: 110px;
+  }
+  .product-price-box img{
+    margin-left: -80px;
+  }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+  .new-prise-box-wrapper .new-prise-box .bottle-img {
+    margin-left: 0px;
+    margin-right: 30px;
+  }
+    .product-items .bottles {
+      max-width: 90%;
+  }
+  .cancel_text {
+    padding-right: 30px !important;
+}
+.typeTxt:nth-child(1) {
+  flex-basis: 38% !important;
+}
+.revolution-sec {
+  margin-top: 210px  !important;
+}
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+  .new-prise-box-wrapper .new-prise-box{
+    padding: 55px 12px 0px 12px;
+  }
+  .new-prise-box-wrapper .new-prise-box .bottle-img {
+    margin-left: -20px;
+    margin-right: 0px;
+  }
+  .product-items .bottles {
+    max-width: 250px;
+  }
+  .new-prise-box-wrapper .new-prise-box .discount-img{
+    transform: translate(-161%, -50%);
+  }
+  .new-prise-box-wrapper .new-prise-box p.saving-dna{
+    right: 50%;
+  }
+}
+
+
+@media screen and (max-width:767px) {
+  .new-prise-box-wrapper .new-prise-box{
+    padding: 35px 12px 0px 12px;
+  }
+  .new-prise-box-wrapper .new-prise-box .bottle-img {
+    margin-left: -40px;
+    margin-right: 0px;
+  }
+  .txtDesk {
+      display: none !important;
+  }
+  .txtMob {
+      display: flex!important;
+  }
+  .sale-bottels{
+    margin-top: 32px;
+  }
+  .new-prise-box-wrapper .new-prise-box .discount-img{
+    transform: translate(-160%, -50%);
+  }
+  .new-prise-box-wrapper .new-prise-box p.saving-dna{
+    transform: translate(85%, -50%);
+  }
+  button.bg-pink.semi-bold.order-now.new-btn{
+    font-size: 20px;
+    max-width: 288px;
+  }
+  body main.index-3 .customer-testimonials p {
+    margin-bottom: 0 !important;
+  }
+
+  .perfect-solution-wrapper .perfect-solution-item img {  
+    display: none;
+  }
+  .perfect-solution-wrapper .perfect-solution-item .check-icon {  
+    display: block
+  }
+  .perfect-solution-item{
+    flex-direction: row !important;
+    align-items: center;
+    gap: 4px;
+  }
+  .perfect-solution-wrapper .line{
+    display: none;
+  }
+  .perfect-solution-wrapper .perfect-solution-item p{
+    margin-top: 0px;
+    text-align: left;
+    font-size: 14px;
+  
+  }
+  .testimonial-wrapper{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+.testimonials-title{
+  width: 100%;
+  border-top: 1px solid  #c9c9c9;
+  border-bottom: 0;
+  padding: 12px 0 0;
+}
+  .img-mobile-girl {
+    width: 100%;
+  }
+
+  .revolution-sec .s1thding {
+    font-size: 16px;
+  }
+
+  .revolution-sec .revolution-contents {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  body main.index-3 .testimonials-sec h6 {
+    font-size: 20px;
+  }
+
+  .quiz-container {
+    padding: 0 20px;
+  }
+
+  .quiz-area {
+    padding: 0 40px;
+  }
+
+  .fieldset-form h2 span {
+    left: -24px;
+    font-size: 14px;
+    top: 7px;
+  }
+
+  .fieldset-form .quiz-items li .list-key {
+    height: 30px;
+  }
+
+  .desktop-show {
+    display: none;
+  }
+
+  .mob-show {
+    display: block;
+  }
+  .labs-promise-wrapper img{
+    max-width: 55px;
+  }
+
+}
+
+@media screen and (max-width:575px) {
+  body .index-3-btn a {
+    padding: 5px 10px !important;
+  }
+  .perfect-solution-item{
+    flex-direction: column !important;
+  }
+  .perfect-solution-wrapper .perfect-solution-item p{
+    text-align: center;
+  }
+  .labs-promise-wrapper img{
+    max-width: 38px;
+  }
+  .labs-promise-wrapper>div p{
+    font-size: 12px;
+  }
+  .labs-promise-wrapper>div{
+    padding-right: 8px;
+  }
+  .labs-promise-wrapper>div:nth-child(4) p{
+    white-space: nowrap;
+  }
+  .quiz-container {
+    padding: 0 10px;
+  }
+
+  .quiz-area {
+    padding: 0 30px;
+    margin-bottom: 30px;
+  }
+
+  .serum-dna {
+    max-width: 108px;
+    margin: 0 auto;
+  }
+
+  /* .product-price-box img{
+    max-width: 18px;
+  } */
+  .bottle-5::before {
+    height: 0;
+  }
+
+  .fieldset-form h2 {
+    font-size: 20px;
+    padding-left: 5px;
+  }
+
+  .prise-box-wrapper .prise-disk h2 {
+    font-size: 30px;
+  }
+
+  .perfect-solution-item img {
+    padding: 0 11px;
+    max-width: 40px;
+    width: 100%;
+  }
+
+  .perfect-solution-wrapper .perfect-solution-item p {
+    font-size: 14px;
+  }
+
+  .price-relative {
+    align-items: center;
+  }
+  .revolution-sec {
+    margin-top: 40px;
+    padding-bottom: 0px;
+}
+.sale-bottels span{
+  font-weight: bold;
+}
+}
+
+/* form page css end */
+@media screen and (max-width:500px) {
+  .new-prise-box-wrapper .new-prise-box{
+    width: 96%;
+    padding: 10px 12px 0px 12px;
+  }
+  .new-prise-box-wrapper{
+    justify-content: center;
+  }
+  .new-prise-box-wrapper .prise-box-two .bottle-img img{
+    width: 120px !important;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative .prise-set{
+    font-size: 50px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative .prise-set span{
+    top: 31px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative .prise-set sup{
+    right: 29px;
+  }
+  .new-prise-box-wrapper .prise-box-one .bottle-img img{
+    width: 50px;
+  }
+  .new-prise-box-wrapper .prise-box-three .bottle-img img{
+    width: 115px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative div p.price-close{
+    font-size: 22px;
+  }
+  .new-prise-box-wrapper .prise-box-two .apply-box.text-center {
+    margin-top: 33px;
+  }
+  .new-prise-box-wrapper .new-prise-box .bottle-img{
+    width: 139px;
+  }
+  .new-prise-box-wrapper .new-prise-box p.saving-dna{
+    font-size: 12px;
+  }
+  .new-prise-box-wrapper .new-prise-box .discount-img img {
+    width: 83px;
+  }
+  .price-relative .free-text .save-free-text span{
+    font-size: 24px !important;
+  }
+  .price-relative .free-text .save-free-text{
+    padding: 5px 4px 5px 4px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative{
+    width: 150px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative{
+    bottom: -53px;
+  }
+  .new-prise-box-wrapper .new-prise-box .bottle-img{
+    margin-left: -10px;
+    margin-right: 8px;
+  }
+}
+
+@media screen and (max-width:385px) {
+  .new-prise-box-wrapper .new-prise-box .discount-img{
+    transform: translate(-189%, -50%);
+  }
+  .new-prise-box-wrapper .new-prise-box .bottle-img{
+    margin-left: -30px;
+    margin-right: 10px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative .prise-set{
+    font-size: 40px;
+    width: fit-content;
+    display: flex;
+    align-items: baseline;
+    margin-left: 0;
+    border: 0;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative div p.price-close{
+    font-size: 18px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative div span{
+    font-size: 12px;
+    padding-bottom: 3px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative div{
+    font-size: 16px;
+    padding-top: 6px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative .free-text{
+    border-top: 1px solid #D8D8D8;
+  }
+  .price-relative .free-text .save-free-text span{
+    font-size: 18px !important;
+  }
+  .price-relative .free-text .save-free-text{
+    padding: 4px 3px 4px 4px;
+  }
+  .new-prise-box-wrapper .new-prise-box .apply-box.text-center a.btn{
+    font-size: 21px;
+    padding: 10px 14px;
+  }
+  .new-prise-box-wrapper .new-prise-box .discount-img img{
+    width: 53px;
+  }
+  .new-prise-box-wrapper .new-prise-box p.saving-dna{
+    font-size: 10px;
+  }
+  .new-prise-box-wrapper .prise-box-two .bottle-img img{
+    width: 70px !important;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative{
+    width: 96px;
+    overflow: initial;
+    bottom: -33px;
+  }
+  .new-prise-box-wrapper .new-prise-box .bottle-img{
+    width: 99px;
+  }
+  .new-prise-box-wrapper .prise-box-one .bottle-img img{
+    width: 40px;
+  }
+  .new-prise-box-wrapper .prise-box-three .bottle-img img{
+    width: 85px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative .prise-set sup{
+    right: -26px;
+    top: -7px;
+  }
+  .new-prise-box-wrapper .new-prise-box .price-relative .prise-set span.font-regular{
+    right: -34px;
+    top: 26px;
+  }
+  .new-prise-box-wrapper .new-prise-box{
+    margin-top: 50px; 
+  }
+}

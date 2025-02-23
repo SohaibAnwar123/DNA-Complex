@@ -1,0 +1,169 @@
+#horizontalTab{padding:0 0 0 0;margin-top:92px!important;}
+ul.resp-tabs-list, p {
+  margin: 0px;
+  padding: 0px;
+}
+ul.resp-tabs-list{margin:0 0;padding:0 0 0 0;}
+.resp-tabs-list li { 
+  font-size: 20px;
+  line-height:30px;
+  text-align:center;
+  color:#000; 
+  margin: 0 0 0 0!important;
+  list-style: none;
+  cursor: pointer;
+  float: left;
+  display:inline-block;
+  box-sizing:border-box;
+  width:25%;
+  padding: 13px 10px 15px 10px;
+  background:#cffffa;
+  position:relative;
+  border-top:1px solid #bad6d3;
+ 
+}
+.resp-tabs-list li:first-child{border-left:1px solid #bad6d3;}
+.resp-tabs-list li:last-child{border-right:1px solid #bad6d3;}
+
+.resp-tabs-list li .tab1arrow{	
+	display:none;
+}
+.resp-tabs-list li.resp-tab-active	.tab1arrow{
+	position:absolute;
+	left:0;
+	right:0;
+	top	:-2px;
+	margin:0 auto;
+	display:block;
+}
+.tabicon{margin:0 auto 6px auto;display:block;}
+.resp-tabs-container {
+  padding:50px 38px 40px 38px;
+  background-color: #fff;
+  clear: left;
+  border:1px solid #bad6d3;
+  border-top:none;
+}
+h2.resp-accordion {
+  cursor: pointer;
+  padding: 5px 5px 0 5px;
+  display: none;
+}
+.resp-tab-content {
+  display: none;
+  padding: 0 0;
+}
+.resp-tabs-list li.resp-tab-active {
+  padding: 23px 10px 15px 10px!important;
+  color:#000;
+  background:#fcffff;
+  height:128px;
+  margin:-15px 0 0 0!important;
+  border-top:2px solid #16e6cf;
+  border-left:1px solid #bad6d3;
+  border-right:1px solid #bad6d3;
+}
+.resp-content-active,
+.resp-accordion-active { display: block;background:yellow; }
+
+h2.resp-accordion {
+  font-size: 19px;
+  font-weight:normal!important;
+  border: 1px solid #c1c1c1;
+  border-top: 0px solid #c1c1c1;
+  margin: 0px;
+  padding: 15px 15px 14px 15px; 
+  background:#ebf7fb!important;
+  letter-spacing:0;
+}
+h2.resp-tab-active {
+  padding: 22px 10px 22px 58px !important;
+}
+.resp-arrow {
+  width: 0;
+  height: 0;
+  float: right;
+  margin-top: 7px;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 12px solid #c1c1c1;
+}
+
+h2.resp-tab-active span.resp-arrow {
+  border: none;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 12px solid #000;
+}
+/*-----------Accordion styles-----------*/
+
+h2.resp-tab-active { background: #fff !important;color:#000;}
+
+.resp-easy-accordion h2.resp-accordion { display: block; }
+
+.resp-easy-accordion .resp-tab-content { border: none; }
+
+.resp-easy-accordion .resp-tab-content:last-child { border-bottom: 1px solid #c1c1c1 !important; }
+
+.resp-jfit {
+  width: 100%;
+  margin: 0px;
+}
+
+.resp-tab-content-active { display: block;}
+
+h2.resp-accordion{ border-top: 1px solid #c1c1c1 !important;position:relative;padding:22px 10px 22px 64px;border:none;}
+h2.resp-accordion:first-child{border-top:1px solid #c1c1c1;}
+
+
+@media only screen and (max-width: 767px) {
+
+ul.resp-tabs-list { display: none; }
+
+h2.resp-accordion { display: block;}
+
+.resp-vtabs .resp-tab-content { border: 1px solid #C1C1C1; }
+
+.resp-vtabs .resp-tabs-container {
+  border: none;
+  float: none;
+  width: 100%;
+  min-height: initial;
+  clear: none;
+}
+.resp-accordion-closed { display: none !important; }
+.resp-vtabs .resp-tab-content:last-child { border-bottom: 1px solid #c1c1c1 !important; }}
+@media only screen and (max-width: 1190px) {
+.resp-tabs-container {padding: 40px 24px 30px 24px;}
+}
+@media only screen and (max-width: 1020px){
+.resp-tabs-container {padding: 34px 14px 25px 14px;}
+.resp-tabs-list li {font-size: 18px;line-height: 30px;}
+}
+@media only screen and (max-width: 767px){
+#horizontalTab {margin-top: 50px!important;}
+.resp-tabs-container {
+    padding: 0 0 0 0;   
+    border-top: none;
+}
+.tab1, .tab2, .tab3, .tab4{display:none;}
+.resp-tabs-list li {font-size:18px;line-height:22px; padding:5px 0;}
+.resp-tab-content {
+  display: none;
+  padding: 15px 10px 30px 10px;
+  border-top:1px solid #CCC;
+}
+.resp-tab-active {
+    margin-bottom: -1px !important;
+    padding: 13px 40px 13px 85px !important;
+    color: #fff;
+    border-radius: 0 0 0 0;
+}
+.tab1arrow{display:none;}
+.tabicon{
+	position:absolute;
+	left:14px;
+	top:9px;
+}
+}
+
